@@ -7,4 +7,4 @@ The theme includes icons from Ultimate-Punk-Suru++ and candy-icons.
 I am colouring the candy-icons using our beloved blue-purple gradient, so that the icon pack has a uniform look.
 
 * CC BY-SA 2.0 © [Ultimate-Punk-Suru++](https://www.opendesktop.org/p/1333537/) by [rtl88](https://www.opendesktop.org/u/rtl88)
-* GPL3 © [candy-icons](https://github.com/EliverLara/candy-icons) by (EliverLara)[https://github.com/EliverLara]
+* GPL3 © [candy-icons](https://github.com/EliverLara/candy-icons) by (EliverLara)(https://github.com/EliverLara)
