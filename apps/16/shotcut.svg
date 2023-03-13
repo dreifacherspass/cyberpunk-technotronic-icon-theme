@@ -12,39 +12,6 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs15">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#oomox"
-       id="linearGradient453"
-       x1="9"
-       y1="9"
-       x2="9"
-       y2="55"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3478261,0,0,1.3478261,-11.130435,-11.130435)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#oomox"
-       id="linearGradient455"
-       x1="32.054953"
-       y1="10.544392"
-       x2="32.054953"
-       y2="41.366462"
-       gradientTransform="matrix(1.0932313,0,0,1.6617116,-11.130435,-11.130435)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#oomox"
-       id="linearGradient457"
-       x1="30.289083"
-       y1="5.579568"
-       x2="30.289083"
-       y2="21.889074"
-       gradientTransform="matrix(0.57848363,0,0,3.1403397,-11.130435,-11.130435)"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
   <sodipodi:namedview
      id="namedview13"
      pagecolor="#ffffff"
