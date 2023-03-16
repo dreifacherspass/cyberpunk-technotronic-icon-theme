@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.0"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Applications-mplayer.svg"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     inkscape:window-height="732"
+     inkscape:window-width="1092"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     width="48px"
+     height="48px"
+     inkscape:zoom="6.3259637"
+     inkscape:cx="26.636258"
+     inkscape:cy="30.351107"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="g1888"
+     showgrid="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="oomox"
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
+      <stop
+         offset="0%"
+         style="stop-color:#0abdc6; stop-opacity:1"
+         id="stop5190" />
+      <stop
+         offset="100%"
+         style="stop-color:#b800ff; stop-opacity:1"
+         id="stop5192" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#oomox"
+       id="linearGradient6590"
+       x1="15.126323"
+       y1="24.000002"
+       x2="32.873653"
+       y2="24.000002"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#oomox"
+       id="linearGradient6598"
+       x1="6.5000033"
+       y1="23.99999"
+       x2="41.500019"
+       y2="23.99999"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#oomox"
+       id="linearGradient6606"
+       x1="58.377636"
+       y1="29.910934"
+       x2="93.322655"
+       y2="29.910934"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g1888">
+    <g
+       id="g6731"
+       transform="matrix(0.866025,-0.5,0.5,0.866025,-56.68162,35.88297)"
+       style="stroke:url(#oomox);fill-opacity:1;fill:none;stroke-width:3.00000105;stroke-dasharray:none">
+      <rect
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient6606);stroke-width:3.00002428;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6725"
+         width="34.945019"
+         height="34.834789"
+         x="58.377636"
+         y="12.493541"
+         rx="6.2141919"
+         ry="6.2141938"
+         transform="matrix(0.999996,2.73161e-3,2.740253e-3,0.999996,0,0)" />
+    </g>
+    <rect
+       ry="6.2142868"
+       rx="6.2142868"
+       y="7.4999948"
+       x="6.5000033"
+       height="32.999992"
+       width="35.000015"
+       id="rect1973"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient6598);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 15.126323,23.998685 C 15.127048,19.09992 19.09735,15.128472 23.99611,15.12633 C 28.89487,15.124189 32.86864,19.092166 32.873647,23.990931 C 32.878655,28.889697 28.913006,32.865789 24.014251,32.873662 C 19.115494,32.881537 15.137084,28.918214 15.126344,24.019459"
+       style="color:black;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient6590);stroke-width:2.25265145;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       id="path5443" />
+    <path
+       d="M 21.01635,18 L 30,24.163788 L 21,30 L 21.01635,18 z "
+       style="fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path6330" />
+  </g>
+</svg>
