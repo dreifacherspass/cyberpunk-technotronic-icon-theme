@@ -1,9 +1,11 @@
-1. The original icon pack has around 60 audio applications that share the same icon (two eighth notes beamed together). 
-If the user has installed some of these applications, they appear indistinguishable in an application launcher or an application menu etc.
+The original icon pack uses the same generic icons to represent a multitude of applications. 
 
-Each application will have its own distinct icon.
+1. A music icon (two eighth notes beamed together) to represent 60 audio applications
 
-2. The original icon pack has around 52 multimedia player applications that share the same icon (a piece of vertical filmstrip).
-If the user has installed some of these applications, they appear indistinguishable in an application launcher or an application menu etc.
+2. A video icon (a piece of vertical filmstrip) for 52 multimedia video players
+
+3. A BitTorrent icon for 4 bittorrent clients.
+
+If the user has installed many applications of the same type, they appear indistinguishable in an application launcher or an application menu etc.
 
 Each application will have its own distinct icon.
