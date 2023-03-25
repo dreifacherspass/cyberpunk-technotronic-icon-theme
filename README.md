@@ -5,7 +5,7 @@ For all of us that love cyberpunk, neon, outrun, synthwave and retrofuture aesth
 
 **Feel free to ask for new icons**
 
-The Ultimate-Punk-Suru++ icon theme was an awesome icon theme. But it hasn't received updates for years and it also uses the same generic icons for a multitude of applications.
+The Ultimate-Punk-Suru++ icon theme was awesome. But it hasn't received updates for years and it also uses the same generic icons for a multitude of applications.
 
 I am creating an icon pack based on the Ultimate-Punk-Suru++, removing the generic icons and adding new ones specific for each application, mimetype, action etc. I am colouring all icons using our beloved blue-purple gradient, so that the icon pack has a uniform look.
 
