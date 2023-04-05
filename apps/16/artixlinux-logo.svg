@@ -12,4 +12,28 @@
          offset="100%"
          style="stop-color:#b800ff; stop-opacity:1"
          id="stop9214" />
-    </linearGradient><path d=" M 24 4 L 16.816 18.371 L 35.41 26.824 L 24 4 Z  M 14.848 22.309 L 4 44 L 36 30 L 14.848 22.309 Z  M 38.398 32.801 L 28.445 37.777 L 44 44 L 38.398 32.801 Z " fill="url(#oomox)"/></svg>
+    </linearGradient>
+    <linearGradient
+       id="90ssummer"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #f618c7; stop-opacity:1"
+         id="stop9241" />
+      <stop
+         offset="20%"
+         style="stop-color: #94ffab; stop-opacity:1"
+         id="stop9243" />
+      <stop
+         offset="50%"
+         style="stop-color: #fbfd54; stop-opacity:1"
+         id="stop9245" />
+      <stop
+         offset="100%"
+         style="stop-color: #0f83ae; stop-opacity:1"
+         id="stop9247" />
+    </linearGradient>
+    <path d=" M 24 4 L 16.816 18.371 L 35.41 26.824 L 24 4 Z  M 14.848 22.309 L 4 44 L 36 30 L 14.848 22.309 Z  M 38.398 32.801 L 28.445 37.777 L 44 44 L 38.398 32.801 Z " fill="url(#oomox)"/></svg>
