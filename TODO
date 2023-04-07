@@ -6,6 +6,8 @@ The original icon pack uses the same generic icons to represent a multitude of a
 
 3. A BitTorrent icon for 4 bittorrent clients.
 
+4. A terminal icon for 42 terminal applications.
+
 If the user has installed many applications of the same type, they appear indistinguishable in an application launcher or an application menu etc.
 
 Each application will have its own distinct icon.
