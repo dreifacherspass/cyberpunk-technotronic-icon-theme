@@ -1,13 +1,15 @@
-The original icon pack uses the same generic icons to represent a multitude of applications. 
+1. The original icon pack uses the same generic icons to represent a multitude of applications:
 
-1. A music icon (two eighth notes beamed together) to represent 60 audio applications
+	- A music icon (two eighth notes beamed together) to represent 60 audio applications
 
-2. A video icon (a piece of vertical filmstrip) for 52 multimedia video players
+	- A video icon (a piece of vertical filmstrip) for 52 multimedia video players
 
-3. A BitTorrent icon for 4 bittorrent clients.
+	- A BitTorrent icon for 4 BitTorrent clients.
 
-4. A terminal icon for 42 terminal applications.
+	- A terminal icon for 42 terminal applications.
 
-If the user has installed many applications of the same type, they appear indistinguishable in an application launcher or an application menu etc.
+2. Applications from different desktops are represented by the same icons, e.g. kamoso (KDE), cheese (gnome) and other web cam apps have the same icon.
 
-Each application will have its own distinct icon.
+If the user has installed many applications of the same type, they appear indistinguishable in an application launcher or an application menu etc. 
+
+The applications should have their own specific icons.
