@@ -5,7 +5,7 @@
    viewBox="0 0 128 128"
    version="1.1"
    id="svg108"
-   sodipodi:docname="com.github.johnfactotum.Foliate-alternative.svg"
+   sodipodi:docname="com.github.johnfactotum.Foliate.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.6725802"
-     inkscape:cx="59.867241"
-     inkscape:cy="73.898625"
+     inkscape:zoom="18.087979"
+     inkscape:cx="65.236697"
+     inkscape:cy="47.683603"
      inkscape:window-width="1545"
      inkscape:window-height="779"
      inkscape:window-x="0"
@@ -33,18 +33,6 @@
      inkscape:current-layer="surface203855" />
   <defs
      id="defs55">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4213">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop4209" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0.8458904;"
-         offset="1"
-         id="stop4211" />
-    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">
@@ -306,7 +294,7 @@
        id="surface203859"
        clip-path="url(#clip1)">
       <path
-         style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;"
+         style="stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;"
          d="M 128 107.65625 C 127.917969 111.746094 124.621094 115 120.507812 115 L 120.007812 115 L 120.007812 116 L 120.507812 116 C 123.753906 116 126.566406 114.1875 128 111.519531 Z M 96 115 L 120 116 L 120 115 Z M 96 115 "
          id="path31" />
       <path
@@ -323,14 +311,6 @@
        id="path57"
        class="ColorScheme-Text"
        sodipodi:nodetypes="csssccssscc" />
-    <path
-       style="display:none;fill:url(#linear0);fill-rule:nonzero;stroke:none"
-       d="M 66.328125,54.019531 C 66.167969,55.007812 66.054688,56 66,57 h -2 v 63 h 4.183594 C 71.976562,111.73828 80.316406,106 90,106 h 22 c 4.43359,0 8,-3.56641 8,-8 V 62.355469 c 0,-4.433594 -3.56641,-8 -8,-8 z m 0,0"
-       id="path59" />
-    <path
-       style="display:none;fill:url(#linear1);fill-rule:nonzero;stroke:none"
-       d="M 61.675781,54.019531 C 61.832031,55.007812 61.945312,56 62,57 h 2 v 63 H 59.816406 C 56.023438,111.73828 47.683594,106 38,106 H 16 c -4.433594,0 -8,-3.56641 -8,-8 V 62.355469 c 0,-4.433594 3.566406,-8 8,-8 z m 0,0"
-       id="path61" />
     <use
        xlink:href="#surface203859"
        transform="matrix(1,0,0,1,-8,-16)"
@@ -347,8 +327,8 @@
        style="display:inline;fill:url(#oomox);fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 16,21 c -4.43357,0 -8,3.56643 -8,8 v 59 c 0,4.43357 3.56643,8 8,8 h 24 c 13.253828,0 24,10.74616 24,24 V 47 C 64,33.746172 53.253828,21 40,21 Z m 4,15 h 20 c 3.574215,0 6.953128,0.941407 10,2.558594 v 3.734375 C 46.953128,40.929689 43.574215,40.148438 40,40 H 20 Z m 0,8 h 20 c 3.574211,0 6.953131,0.941408 10,2.558594 v 3.734375 C 46.953131,48.92969 43.574211,48.148438 40,48 H 20 Z m 0,8 h 20 c 3.574207,0 6.953134,0.941409 10,2.558594 v 3.734375 C 46.953134,56.929691 43.574207,56.148438 40,56 H 20 Z m 0,8 h 20 c 3.574203,0 6.953137,0.94141 10,2.558594 v 3.734375 C 46.953137,64.929692 43.574203,64.148438 40,64 H 20 Z m 0,8 h 20 c 3.574199,0 6.95314,0.941411 10,2.558594 v 3.734375 C 46.95314,72.929693 43.574199,72.148438 40,72 H 20 Z m 0,8 h 16 v 4 H 20 Z" />
     <path
-       style="opacity:1;fill:url(#linearGradient4215);fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
-       d="m 63.943969,45.392061 c 0,1.637804 -0.282604,54.068595 0.02605,68.097969 0.05616,0.67599 0.07532,0.33165 0.125595,-0.003"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       d="m 64.285148,44.17579 c -0.201921,-0.184883 -1.129147,67.4596 -0.725452,67.73087 -0.115185,0.61335 0.353679,6.77637 1.091907,0.002"
        id="path4303"
        sodipodi:nodetypes="ccc" />
     <path
