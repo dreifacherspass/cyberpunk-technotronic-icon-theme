@@ -19,42 +19,77 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs6521">
+     <style
+       id="current-color-scheme"
+       type="text/css">
+       .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
+    </style>
     <linearGradient
-       id="linearGradient6383"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
+       id="arrongin"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
       <stop
-         offset="-99"
-         style="stop-color:#b800ff; stop-opacity:1"
-         id="stop6381" />
+         offset="0%"
+         style="stop-color:#dd9b44; stop-opacity:1"
+         id="stop9192" />
       <stop
-         offset="1"
-         style="stop-color:#0abdc6; stop-opacity:1"
-         id="stop6379" />
+         offset="100%"
+         style="stop-color:#ad6c16; stop-opacity:1"
+         id="stop9194" />
     </linearGradient>
     <linearGradient
-       id="linearGradient1232"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
+       id="aurora"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#09D4DF; stop-opacity:1"
+         id="stop9197" />
+      <stop
+         offset="100%"
+         style="stop-color:#9269F4; stop-opacity:1"
+         id="stop9199" />
+    </linearGradient>
+    <linearGradient
+       id="cyberneon"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
       <stop
          offset="0"
          style="stop-color:#0abdc6; stop-opacity:1"
-         id="stop1228" />
+         id="stop9202" />
       <stop
-         offset="100"
-         style="stop-color:#b800ff; stop-opacity:1"
-         id="stop1230" />
+         offset="1"
+         style="stop-color:#ea00d9; stop-opacity:1"
+         id="stop9204" />
+    </linearGradient>
+    <linearGradient
+       id="fitdance"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#1AD6AB; stop-opacity:1"
+         id="stop9207" />
+      <stop
+         offset="100%"
+         style="stop-color:#329DB6; stop-opacity:1"
+         id="stop9209" />
     </linearGradient>
     <linearGradient
        id="oomox"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
       <stop
          offset="0%"
          style="stop-color:#0abdc6; stop-opacity:1"
@@ -65,43 +100,96 @@
          id="stop9214" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#oomox"
-       id="linearGradient584"
-       x1="1.031"
-       y1="1"
-       x2="1.031"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
+       id="rainblue"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#00F260; stop-opacity:1"
+         id="stop9217" />
+      <stop
+         offset="100%"
+         style="stop-color:#0575E6; stop-opacity:1"
+         id="stop9219" />
+    </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#oomox"
-       id="linearGradient586"
-       x1="2.1559999"
-       y1="2.188"
-       x2="2.1559999"
-       y2="13.813"
-       gradientUnits="userSpaceOnUse" />
+       id="sunrise"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #FF8501; stop-opacity:1"
+         id="stop9222" />
+      <stop
+         offset="100%"
+         style="stop-color: #FFCB01; stop-opacity:1"
+         id="stop9224" />
+    </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6383"
-       id="linearGradient1274"
-       x1="149.77736"
-       y1="997.5639"
-       x2="149.42805"
-       y2="606.98236"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.13142903,0,0,0.13142903,-41.142872,438.62267)" />
+       id="telinkrin"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #b2ced6; stop-opacity:1"
+         id="stop9227" />
+      <stop
+         offset="100%"
+         style="stop-color: #6da5b7; stop-opacity:1"
+         id="stop9229" />
+    </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1232"
-       id="linearGradient6359"
-       x1="349.61969"
-       y1="1002.7206"
-       x2="349.61969"
-       y2="606.25293"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.13142903,0,0,0.13142903,-41.142872,438.62267)" />
+       id="60spsycho"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #df5940; stop-opacity:1"
+         id="stop9232" />
+      <stop
+         offset="25%"
+         style="stop-color: #d8d15f; stop-opacity:1"
+         id="stop9234" />
+      <stop
+         offset="50%"
+         style="stop-color: #e9882a; stop-opacity:1"
+         id="stop9236" />
+      <stop
+         offset="100%"
+         style="stop-color: #279362; stop-opacity:1"
+         id="stop9238" />
+    </linearGradient>
+    <linearGradient
+       id="90ssummer"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #f618c7; stop-opacity:1"
+         id="stop9241" />
+      <stop
+         offset="20%"
+         style="stop-color: #94ffab; stop-opacity:1"
+         id="stop9243" />
+      <stop
+         offset="50%"
+         style="stop-color: #fbfd54; stop-opacity:1"
+         id="stop9245" />
+      <stop
+         offset="100%"
+         style="stop-color: #0f83ae; stop-opacity:1"
+         id="stop9247" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -146,11 +234,13 @@
        transform="matrix(0.87499998,0,0,0.87499991,31.250001,100.29533)">
       <path
          id="rect4152"
-         style="opacity:1;fill:url(#linearGradient1274);fill-opacity:1;stroke:none;stroke-width:1.31431;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1"
+         class="ColorScheme-Text"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:1.31431;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1"
          d="m -34.571431,517.81384 13.046086,13.0368 v 26.47496 l -13.046086,13.0368 h 26.2934342 v -26.05935 l 0.2097608,-0.20929 -0.2097608,-0.20931 v -26.07027 z" />
       <path
          id="rect4152-3-7"
-         style="opacity:1;fill:url(#linearGradient6359);fill-opacity:1;stroke:none;stroke-width:1.31431;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1"
+         class="ColorScheme-Text"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:1.31431;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1"
          d="M 17.997831,517.79072 4.8511194,530.92804 H 17.997831 Z M 4.8508208,530.93034 v 0.01 L -8.2917851,544.07293 H 4.8549266 v -0.01 L 17.997533,530.93034 Z m 0.00265,13.14387 v 13.12408 l -2.935e-4,-1.9e-4 v 0.0115 H 4.85141 l 0.00177,0.002 v 13.12128 h 13.130852 l 0.0138,0.0116 v -0.0116 h 0.0018 l -0.0018,-0.002 V 557.20957 H 4.8669668 l -4.893e-4,-5.9e-4 H 17.999999 Z" />
     </g>
   </g>
