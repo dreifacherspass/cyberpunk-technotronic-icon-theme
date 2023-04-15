@@ -13,51 +13,77 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs47">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
     <linearGradient
-       id="linearGradient1169"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
+       id="arrongin"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
       <stop
-         offset="-99"
-         style="stop-color:#b800ff; stop-opacity:1"
-         id="stop1167" />
+         offset="0%"
+         style="stop-color:#dd9b44; stop-opacity:1"
+         id="stop9192" />
       <stop
-         offset="1"
-         style="stop-color:#0abdc6; stop-opacity:1"
-         id="stop1165" />
+         offset="100%"
+         style="stop-color:#ad6c16; stop-opacity:1"
+         id="stop9194" />
     </linearGradient>
     <linearGradient
-       id="linearGradient1159"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
+       id="aurora"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#09D4DF; stop-opacity:1"
+         id="stop9197" />
+      <stop
+         offset="100%"
+         style="stop-color:#9269F4; stop-opacity:1"
+         id="stop9199" />
+    </linearGradient>
+    <linearGradient
+       id="cyberneon"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
       <stop
          offset="0"
          style="stop-color:#0abdc6; stop-opacity:1"
-         id="stop1155" />
+         id="stop9202" />
       <stop
-         offset="100"
-         style="stop-color:#0abdbe;stop-opacity:1;"
-         id="stop1157" />
+         offset="1"
+         style="stop-color:#ea00d9; stop-opacity:1"
+         id="stop9204" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#oomox"
-       id="linearGradient1255"
-       x1="4.5"
-       y1="24"
-       x2="43.5"
-       y2="24"
-       gradientUnits="userSpaceOnUse" />
+       id="fitdance"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#1AD6AB; stop-opacity:1"
+         id="stop9207" />
+      <stop
+         offset="100%"
+         style="stop-color:#329DB6; stop-opacity:1"
+         id="stop9209" />
+    </linearGradient>
     <linearGradient
        id="oomox"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
       <stop
          offset="0%"
          style="stop-color:#0abdc6; stop-opacity:1"
@@ -68,33 +94,96 @@
          id="stop9214" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#oomox"
-       id="linearGradient561"
-       x1="1.031"
-       y1="1"
-       x2="1.031"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
+       id="rainblue"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#00F260; stop-opacity:1"
+         id="stop9217" />
+      <stop
+         offset="100%"
+         style="stop-color:#0575E6; stop-opacity:1"
+         id="stop9219" />
+    </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#oomox"
-       id="linearGradient563"
-       x1="2.156"
-       y1="2.188"
-       x2="2.156"
-       y2="13.813"
-       gradientUnits="userSpaceOnUse" />
+       id="sunrise"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #FF8501; stop-opacity:1"
+         id="stop9222" />
+      <stop
+         offset="100%"
+         style="stop-color: #FFCB01; stop-opacity:1"
+         id="stop9224" />
+    </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#oomox"
-       id="linearGradient947"
-       x1="5"
-       y1="5"
-       x2="5"
-       y2="43"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2105263,0,0,1.2105263,-5.0526315,-5.0526315)" />
+       id="telinkrin"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #b2ced6; stop-opacity:1"
+         id="stop9227" />
+      <stop
+         offset="100%"
+         style="stop-color: #6da5b7; stop-opacity:1"
+         id="stop9229" />
+    </linearGradient>
+    <linearGradient
+       id="60spsycho"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #df5940; stop-opacity:1"
+         id="stop9232" />
+      <stop
+         offset="25%"
+         style="stop-color: #d8d15f; stop-opacity:1"
+         id="stop9234" />
+      <stop
+         offset="50%"
+         style="stop-color: #e9882a; stop-opacity:1"
+         id="stop9236" />
+      <stop
+         offset="100%"
+         style="stop-color: #279362; stop-opacity:1"
+         id="stop9238" />
+    </linearGradient>
+    <linearGradient
+       id="90ssummer"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color: #f618c7; stop-opacity:1"
+         id="stop9241" />
+      <stop
+         offset="20%"
+         style="stop-color: #94ffab; stop-opacity:1"
+         id="stop9243" />
+      <stop
+         offset="50%"
+         style="stop-color: #fbfd54; stop-opacity:1"
+         id="stop9245" />
+      <stop
+         offset="100%"
+         style="stop-color: #0f83ae; stop-opacity:1"
+         id="stop9247" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="namedview45"
@@ -115,100 +204,9 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg43" />
-  <linearGradient
-     id="a">
-    <stop
-       offset="0"
-       stop-color="#4d4d4d"
-       id="stop2" />
-    <stop
-       offset="1"
-       stop-color="#536161"
-       id="stop4" />
-  </linearGradient>
-  <linearGradient
-     id="b"
-     gradientUnits="userSpaceOnUse"
-     x1="24"
-     x2="24"
-     y1="44"
-     y2="4">
-    <stop
-       offset="0"
-       stop-color="#afb0b3"
-       id="stop7" />
-    <stop
-       offset="1"
-       stop-color="#bdc3c7"
-       id="stop9" />
-  </linearGradient>
-  <linearGradient
-     id="d"
-     gradientUnits="userSpaceOnUse"
-     x1="24"
-     x2="24"
-     y1="32.602"
-     y2="15.721">
-    <stop
-       offset="0"
-       stop-color="#eff1f1"
-       id="stop12" />
-    <stop
-       offset="1"
-       stop-color="#fcfcfc"
-       id="stop14" />
-  </linearGradient>
-  <linearGradient
-     id="g"
-     gradientUnits="userSpaceOnUse"
-     x1="24"
-     x2="24"
-     xlink:href="#oomox"
-     y1="31.214001"
-     y2="17.219999" />
-  <linearGradient
-     id="e"
-     gradientUnits="userSpaceOnUse"
-     x1="24"
-     x2="24"
-     xlink:href="#oomox"
-     y1="34"
-     y2="14" />
-  <linearGradient
-     id="f"
-     gradientUnits="userSpaceOnUse"
-     x1="24"
-     x2="42"
-     y1="26"
-     y2="44">
-    <stop
-       offset="0"
-       stop-color="#232629"
-       id="stop19" />
-    <stop
-       offset="1"
-       stop-opacity="0"
-       id="stop21" />
-  </linearGradient>
-  <linearGradient
-     id="c"
-     gradientUnits="userSpaceOnUse"
-     x1="24"
-     x2="24"
-     y1="43"
-     y2="5">
-    <stop
-       offset="0"
-       stop-color="#c0392b"
-       id="stop24"
-       style="stop-color:#ffffff;stop-opacity:1;" />
-    <stop
-       offset="1"
-       stop-color="#e74c3c"
-       id="stop26" />
-  </linearGradient>
-  <path
+   <path
      d="M 25.210526,39.736842 H 47 V 47 H 25.210526 Z M 1,39.736842 H 22.789474 V 47 H 1 Z m 0,-9.68421 h 9.684211 v 7.263157 H 1 Z m 36.315789,0 H 47 v 7.263157 h -9.684211 z m -24.210526,0 h 21.789474 v 7.263157 H 13.105263 Z M 1,20.368421 h 21.789474 v 7.263158 H 1 Z m 24.210526,0 H 47 v 7.263158 H 25.210526 Z m 12.105263,-9.68421 H 47 v 7.263157 H 37.315789 Z M 1,10.684211 h 9.684211 v 7.263157 H 1 Z m 12.105263,0 h 21.789474 v 7.263157 H 13.105263 Z M 25.210526,1 H 47 V 8.2631579 H 25.210526 Z M 1,1 H 22.789474 V 8.2631579 H 1 Z"
+     class="ColorScheme-Text"
      id="path31"
-     style="opacity:1;fill:url(#linearGradient947);fill-opacity:1;stroke:none;stroke-width:1.21053;stroke-opacity:1" />
+     style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:1.21053;stroke-opacity:1" />
 </svg>
