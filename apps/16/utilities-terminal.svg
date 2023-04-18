@@ -7,9 +7,13 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg5"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title167">utilities-terminal (konsole) icon</title>
   <defs
      id="defs2">
     <style
@@ -190,5 +194,19 @@
      id="path1011"
      class="ColorScheme-Text"
      style="fill:none;stroke:url(#oomox);stroke-width:0.881109;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
-     d="M 3.2826271,11.569915 H 11.354661 M 0.71091628,1.1187836 5.6001311,6.4022379 0.59609053,11.928994" />
+     d="M 4.7113278,11.569915 H 9.9312431 M 0.71091628,1.1187836 5.6001311,6.4022379 0.59609053,11.928994" />
+  <metadata
+     id="metadata165">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>utilities-terminal (konsole) icon</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>dreifacherspass</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
