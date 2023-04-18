@@ -4,9 +4,11 @@
    height="16"
    version="1.1"
    id="svg77"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs73">
     <style
@@ -16,10 +18,10 @@
   </style>
     <linearGradient
        id="arrongin"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#dd9b44"
@@ -33,10 +35,10 @@
     </linearGradient>
     <linearGradient
        id="aurora"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#09D4DF"
@@ -50,10 +52,10 @@
     </linearGradient>
     <linearGradient
        id="cyberblue"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#07B3FF"
@@ -67,10 +69,10 @@
     </linearGradient>
     <linearGradient
        id="cyberneon"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#0abdc6"
@@ -84,10 +86,10 @@
     </linearGradient>
     <linearGradient
        id="fitdance"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#1AD6AB"
@@ -101,10 +103,12 @@
     </linearGradient>
     <linearGradient
        id="oomox"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="3.6754887"
+       x2="3.6754887"
+       y1="-0.0083589535"
+       y2="12.24327"
+       gradientTransform="matrix(0.85916335,0,0,1.2896245,-0.35429882,0.11077744)"
+       gradientUnits="userSpaceOnUse">
       <stop
          offset="0%"
          stop-color="#0abdc6"
@@ -118,10 +122,10 @@
     </linearGradient>
     <linearGradient
        id="rainblue"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#00F260"
@@ -135,10 +139,10 @@
     </linearGradient>
     <linearGradient
        id="redcarbon"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#FF6D57"
@@ -157,10 +161,10 @@
     </linearGradient>
     <linearGradient
        id="sunrise"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#FF8501"
@@ -174,10 +178,10 @@
     </linearGradient>
     <linearGradient
        id="telinkrin"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#b2ced6"
@@ -191,10 +195,10 @@
     </linearGradient>
     <linearGradient
        id="60spsycho"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#df5940"
@@ -218,10 +222,10 @@
     </linearGradient>
     <linearGradient
        id="90ssummer"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          stop-color="#f618c7"
@@ -246,6 +250,21 @@
   </defs>
   <path
      id="path75"
-     fill="url(#oomox)" class="ColorScheme-Text"
-     d="M 4,0 C 4,0 3,1e-6 3,1 v 14 l 5,-3 5,3 V 1 c 0,0 -10e-7,-1 -1,-1 -1.609581,0 -1.873701,0.00492109 -2.8847656,-0.01024108 L 7.9296875,2.7988281 10.523438,5.0585938 7.8085938,8.7304688 8.8027344,5.3105469 5.4765625,3.0664062 6.4550781,0.01133839 C 5.0873412,0.00691783 5.0844285,0 4,0 Z"/>
+     fill="url(#oomox)"
+     class="ColorScheme-Text"
+     d="m 3.8561606,0.11077742 c 0,0 -1.0526151,1.1e-6 -1.0526151,1.05261418 V 15.9 L 8.0666201,12.74215 13.329697,15.9 V 1.1633916 c 0,0 0,-1.05261418 -1.052619,-1.05261418 -1.694269,0 -1.972285,0.005184 -3.0365483,-0.0107774 L 7.9926074,3.0568661 10.722827,6.3632609 8.0792348,12.797415 8.9115878,7.3420977 5.4104116,3.3385219 6.4404139,0.12271244 c -1.4397034,-0.004653 -1.4427667,-0.011935 -2.5842533,-0.011935 z"
+     style="fill:url(#oomox);stroke-width:1.0526" />
+  <metadata
+     id="metadata449">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>dreifacherspass</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
