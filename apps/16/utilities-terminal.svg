@@ -87,7 +87,7 @@
        x2="4.6156863"
        y1="0.19710118"
        y2="8.841976"
-       gradientTransform="matrix(0.71177993,0,0,1.4049286,-2.9597458,0.05381356)"
+       gradientTransform="matrix(0.71177993,0,0,1.4049286,-1.7101227,0.05381356)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0%"
@@ -194,7 +194,7 @@
      id="path1011"
      class="ColorScheme-Text"
      style="fill:none;stroke:url(#oomox);stroke-width:0.881109;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
-     d="M 4.7113278,11.569915 H 9.9312431 M 0.71091628,1.1187836 5.6001311,6.4022379 0.59609053,11.928994" />
+     d="M 5.9609509,11.569915 H 11.180866 M 1.9605394,1.1187836 6.8497542,6.4022379 1.8457136,11.928994" />
   <metadata
      id="metadata165">
     <rdf:RDF>
