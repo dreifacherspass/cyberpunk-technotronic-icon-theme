@@ -6,25 +6,37 @@
    height="48"
    id="svg5453"
    version="1.1"
+   sodipodi:docname="ark.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview2546"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="10.984049"
+     inkscape:cx="30.771895"
+     inkscape:cy="30.635333"
+     inkscape:window-width="1680"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs5455">
-    <linearGradient
-       id="linearGradient1082">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1078" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1080" />
-    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">
@@ -196,14 +208,6 @@
          style="stop-color: #0f83ae; stop-opacity:1"
          id="stop9247" />
     </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient1082"
-       id="linearGradient1084"
-       x1="408.3687"
-       y1="525.55192"
-       x2="430.69643"
-       y2="525.55192"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata5458">
@@ -224,22 +228,30 @@
   <g
      id="layer1"
      transform="translate(-384.57143,-499.798)">
+    <rect
+       style="fill:#000000;fill-opacity:0.219608;stroke:url(#oomox);stroke-width:1.95777;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect2961"
+       class="ColorScheme-Text"
+       width="45.042233"
+       height="45.042229"
+       x="386.05032"
+       y="501.27689" />
     <path
-       style="display:inline;opacity:0.096;fill:url(#linearGradient1084);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.162;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
-       d="m 414.24437,504.28174 v 3.44919 h -3.52541 l 3.52541,3.44925 v 1.14965 h -3.52541 l 3.52541,3.44925 v 1.1498 h -3.52541 l 3.52541,3.44919 v 1.1498 h -3.52541 l 17.62722,17.24601 2.35025,2.29944 v -20.69525 l -2.35025,-2.29951 z m -2.35026,20.69522 v 4.59904 h -1.17515 v 4.59895 h -2.35026 l 12.9266,12.64716 h 9.40113 v -3.4493 l -2.35025,-2.29949 z"
+       style="display:inline;opacity:0.096;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.162;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 413.06084,504.1907 v 3.44919 h -3.52541 l 3.52541,3.44925 v 1.14965 h -3.52541 l 3.52541,3.44925 v 1.1498 h -3.52541 l 3.52541,3.44919 v 1.1498 h -3.52541 l 17.62722,17.24601 2.35025,2.29944 v -20.69525 l -2.35025,-2.29951 z m -2.35026,20.69522 v 4.59904 h -1.17515 v 4.59895 h -2.35026 l 12.9266,12.64716 h 9.40113 v -3.4493 l -2.35025,-2.29949 z"
        id="path4404" />
     <path
        id="rect4149"
        class="ColorScheme-Text"
        style="display:inline;opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:3.25464;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.550265"
-       d="m 404.84323,500.8325 v 1.1498 h 3.52547 v 1.14964 h 1.17505 v 1.1498 h -1.17505 v 1.14969 h -3.52547 v 1.14976 h 3.52547 v 1.14974 h 1.17505 v 1.1498 h -1.17505 v 1.14966 h -3.52547 v 1.14979 h 3.52547 v 1.14965 h 1.17505 v 1.1498 h -1.17505 v 1.14979 h -3.52547 v 1.14966 h 3.52547 v 1.1498 h 1.17505 v 1.14968 h -1.17505 v 1.14976 h -3.52547 v 1.14975 h 3.52547 v 1.1498 h 1.17505 v 1.14964 h -1.17505 v 1.1498 h -3.52547 v 22.9948 h 9.40114 v -25.29424 h -3.52541 v -1.1498 h -1.17521 v -1.14975 h 1.17521 v -1.14976 h 3.52541 v -1.14968 h -3.52541 v -1.1498 h -1.17521 v -1.14966 h 1.17521 v -1.14979 h 3.52541 v -1.1498 h -3.52541 v -1.14965 h -1.17521 v -1.14979 h 1.17521 v -1.14966 h 3.52541 v -1.1498 h -3.52541 v -1.14974 h -1.17521 v -1.14976 h 1.17521 v -1.14969 h 3.52541 v -3.44924 z m 2.35026,24.14446 h 4.70062 v 4.59904 h -1.17515 v 4.59895 H 408.3687 V 529.576 h -1.17521 z m 1.17521,1.14979 v 2.29945 h 2.35026 v -2.29945 z" />
+       d="m 403.87086,500.8325 v 1.1498 h 3.52547 v 1.14964 h 1.17505 v 1.1498 h -1.17505 v 1.14969 h -3.52547 v 1.14976 h 3.52547 v 1.14974 h 1.17505 v 1.1498 h -1.17505 v 1.14966 h -3.52547 v 1.14979 h 3.52547 v 1.14965 h 1.17505 v 1.1498 h -1.17505 v 1.14979 h -3.52547 v 1.14966 h 3.52547 v 1.1498 h 1.17505 v 1.14968 h -1.17505 v 1.14976 h -3.52547 v 1.14975 h 3.52547 v 1.1498 h 1.17505 v 1.14964 h -1.17505 v 1.1498 h -3.52547 v 22.9948 h 9.40114 v -25.29424 h -3.52541 v -1.1498 h -1.17521 v -1.14975 h 1.17521 v -1.14976 h 3.52541 v -1.14968 h -3.52541 v -1.1498 h -1.17521 v -1.14966 h 1.17521 v -1.14979 h 3.52541 v -1.1498 h -3.52541 v -1.14965 h -1.17521 v -1.14979 h 1.17521 v -1.14966 h 3.52541 v -1.1498 h -3.52541 v -1.14974 h -1.17521 v -1.14976 h 1.17521 v -1.14969 h 3.52541 v -3.44924 z m 2.35026,24.14446 h 4.70062 v 4.59904 h -1.17515 v 4.59895 h -2.35026 V 529.576 h -1.17521 z m 1.17521,1.14979 v 2.29945 h 2.35026 v -2.29945 z" />
     <rect
-       style="fill:none;stroke:url(#oomox);stroke-width:0.593553;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       style="fill:none;stroke:url(#oomox);stroke-width:0.586195;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
        id="rect319"
        class="ColorScheme-Text"
-       width="9.7691755"
-       height="46.406448"
-       x="404.61819"
-       y="500.59476" />
+       width="9.5269871"
+       height="46.413807"
+       x="403.86591"
+       y="500.59109" />
   </g>
 </svg>
