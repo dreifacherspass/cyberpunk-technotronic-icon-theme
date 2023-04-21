@@ -8,7 +8,12 @@
 
 	- A terminal icon for 42 terminal applications.
 
-2. Applications from different desktops are represented by the same icons, e.g. kamoso (KDE), cheese (gnome) and other web cam apps have the same icon.
+2. Applications from different desktops are represented by the same icons
+	- web cam apps
+
+	- file managers
+
+	- photo gallery apps
 
 If the user has installed many applications of the same type, they appear indistinguishable in an application launcher or an application menu etc. 
 
