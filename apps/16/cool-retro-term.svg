@@ -7,7 +7,6 @@
    viewBox="0 0 12.7 12.7"
    version="1.1"
    id="svg5"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -186,38 +185,36 @@
          style="stop-color: #0f83ae; stop-opacity:1"
          id="stop9247" />
     </linearGradient>
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient169"
-       x1="0.7873536"
-       y1="5.5360132"
-       x2="0.7873536"
-       y2="9.6110956"
-       gradientTransform="scale(0.81411957,1.2283208)"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="layer1"
-     transform="matrix(1.0891413,0,0,1.0891413,-0.56584814,-0.6235041)">
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:6.57694px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0531635;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
-       x="6.4519606"
-       y="5.7271996"
+     transform="matrix(1.0891413,0,0,1.0891413,-0.6196617,-0.56969054)">
+    <g
+       aria-label="CRT"
+       transform="scale(0.96549505,1.0357381)"
        id="text857"
-       class="ColorScheme-Text"
-       transform="scale(0.96549505,1.0357381)"><tspan
-         id="tspan855"
-         style="font-size:6.57694px;fill:url(#oomox);fill-opacity:1;stroke-width:0.0531635"
-         x="6.4519606"
-         y="5.7271996">CRT</tspan></text>
+       style="color:#0abdc6;font-weight:bold;font-size:6.71914px;-inkscape-font-specification:'sans-serif, Bold';text-align:center;text-anchor:middle;stroke-width:0.0543131;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
+       class="ColorScheme-Text">
+      <path
+         d="m 1.4977813,0.63648872 h 2.0733346 q 0.057593,0.009599 0.057593,0.0575926 V 1.3467978 H 4.281425 q 0.057593,0.0096 0.057593,0.057593 v 0.6527165 q 0,0.057593 -0.057593,0.057593 H 3.6287085 q -0.057593,0 -0.057593,-0.057593 V 1.4043904 H 1.4977813 V 4.8983433 H 3.5711159 V 4.2456268 q 0.0096,-0.057593 0.057593,-0.057593 H 4.281425 q 0.057593,0.0096 0.057593,0.057593 v 0.6527165 q 0,0.057593 -0.057593,0.057593 H 3.6287085 v 0.6527165 q 0,0.057593 -0.057593,0.057593 H 1.4977813 q -0.057593,0 -0.057593,-0.057593 V 4.9559359 H 0.78747218 q -0.0575926,0 -0.0575926,-0.057593 V 1.4043904 q 0.009599,-0.057593 0.0575926,-0.057593 H 1.4401886 V 0.69408135 q 0.0096,-0.0575926 0.057593,-0.0575926 z"
+         style="font-weight:normal;font-family:'LCD Solid';-inkscape-font-specification:'LCD Solid, Normal';fill:url(#oomox)"
+         id="path374" />
+      <path
+         d="m 4.8957442,0.63648872 h 2.7788444 q 0.062392,0.009599 0.062392,0.0575926 V 1.3467978 h 0.6479171 q 0.057593,0.0096 0.057593,0.057593 v 1.3582262 q 0,0.062392 -0.057593,0.062392 H 7.7369806 v 0.6479171 q 0,0.062392 -0.062392,0.062392 H 7.0266715 v 0.6479171 h 0.6479171 q 0.062392,0.0096 0.062392,0.057593 v 0.6527165 h 0.6479171 q 0.057593,0.0096 0.057593,0.057593 V 5.603853 q 0,0.057593 -0.057593,0.057593 H 7.7369806 q -0.062392,0 -0.062392,-0.057593 V 4.9511365 H 7.0266715 q -0.062392,0 -0.062392,-0.057593 V 4.2408274 H 6.3163624 q -0.057593,0 -0.057593,-0.057593 V 3.5353177 H 5.6060533 V 5.603853 q 0,0.057593 -0.057593,0.057593 H 4.8957442 q -0.057593,0 -0.057593,-0.057593 V 0.69408135 q 0.0096,-0.0575926 0.057593,-0.0575926 z M 5.6060533,1.4043904 V 2.7626166 H 7.6745886 V 1.4043904 Z"
+         style="font-weight:normal;font-family:'LCD Solid';-inkscape-font-specification:'LCD Solid, Normal';fill:url(#oomox)"
+         id="path376" />
+      <path
+         d="m 8.9992169,0.62209057 h 3.4987521 q 0.05759,0.009599 0.05759,0.0575926 v 0.6527165 q 0,0.057593 -0.05759,0.057593 h -1.363025 v 4.2090613 q 0,0.057593 -0.06239,0.057593 h -0.647918 q -0.06239,0 -0.06239,-0.057593 V 1.3899923 H 8.9992169 q -0.057593,0 -0.057593,-0.057593 V 0.6796832 q 0.0096,-0.0575926 0.057593,-0.0575926 z"
+         style="font-weight:normal;font-family:'LCD Solid';-inkscape-font-specification:'LCD Solid, Normal';fill:url(#oomox)"
+         id="path378" />
+    </g>
     <rect
-       style="fill:url(#oomox);fill-opacity:1;stroke-width:0.0533422;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
+       style="fill:url(#oomox);fill-opacity:1;stroke-width:0.0541783;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
        id="rect1100"
        class="ColorScheme-Text"
-       width="3.3176043"
+       width="3.4224169"
        height="5.0055084"
-       x="0.64099997"
+       x="0.69040936"
        y="6.8000002" />
   </g>
   <metadata
