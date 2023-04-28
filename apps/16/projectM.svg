@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
 <svg
-   width="64px"
-   height="64px"
+   width="48"
+   height="48"
    id="svg2388"
    version="1.1"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -13,12 +11,17 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2390">
-   <linearGradient
+      <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
+     </style>
+    <linearGradient
        id="arrongin"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          style="stop-color:#dd9b44; stop-opacity:1"
@@ -30,10 +33,10 @@
     </linearGradient>
     <linearGradient
        id="aurora"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          style="stop-color:#09D4DF; stop-opacity:1"
@@ -45,10 +48,10 @@
     </linearGradient>
     <linearGradient
        id="cyberneon"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0"
          style="stop-color:#0abdc6; stop-opacity:1"
@@ -60,10 +63,10 @@
     </linearGradient>
     <linearGradient
        id="fitdance"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          style="stop-color:#1AD6AB; stop-opacity:1"
@@ -75,10 +78,12 @@
     </linearGradient>
     <linearGradient
        id="oomox"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="2.9125886"
+       x2="2.9125886"
+       y1="4.5953455"
+       y2="61.765236"
+       gradientTransform="scale(1.0101801,0.98992251)"
+       gradientUnits="userSpaceOnUse">
       <stop
          offset="0%"
          style="stop-color:#0abdc6; stop-opacity:1"
@@ -90,10 +95,10 @@
     </linearGradient>
     <linearGradient
        id="rainblue"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          style="stop-color:#00F260; stop-opacity:1"
@@ -105,10 +110,10 @@
     </linearGradient>
     <linearGradient
        id="sunrise"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          style="stop-color: #FF8501; stop-opacity:1"
@@ -120,10 +125,10 @@
     </linearGradient>
     <linearGradient
        id="telinkrin"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          style="stop-color: #b2ced6; stop-opacity:1"
@@ -135,10 +140,10 @@
     </linearGradient>
     <linearGradient
        id="60spsycho"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          style="stop-color: #df5940; stop-opacity:1"
@@ -158,10 +163,10 @@
     </linearGradient>
     <linearGradient
        id="90ssummer"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="1">
       <stop
          offset="0%"
          style="stop-color: #f618c7; stop-opacity:1"
@@ -188,14 +193,38 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>dreifacherspass</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1">
+     id="layer1"
+     transform="matrix(0.81382627,0,0,0.81382627,-1.8944713,-2.7308695)">
     <path
-       style="font-size:144px;font-style:normal;font-weight:bold;fill:url(#oomox);fill-opacity:1;stroke:#0004f8;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0;font-family:Trebuchet MS;stroke-dasharray:none"
-       d="M 60.694122,61.142796 L 50.965865,61.142796 L 41.8038,28.449326 L 34.098021,50.895527 L 29.731367,50.895527 L 22.025587,28.449326 L 12.631895,61.142796 L 2.9422396,61.142796 L 22.017006,4.5490375 L 31.895392,33.866784 L 41.464946,4.5490375 L 60.694122,61.142796"
-       id="path3315" />
+       style="font-style:normal;font-weight:bold;font-size:144px;font-family:'Trebuchet MS';fill:url(#oomox);fill-opacity:1;stroke:#0004f8;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       d="M 60.694122,61.142796 H 50.965865 L 41.8038,28.449326 34.098021,50.895527 h -4.366654 l -7.70578,-22.446201 -9.393692,32.69347 H 2.9422396 L 22.017006,4.5490375 31.895392,33.866784 41.464946,4.5490375 60.694122,61.142796"
+       id="path3315"
+       class="ColorScheme-Text"/>
   </g>
 </svg>
