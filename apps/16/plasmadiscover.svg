@@ -4,32 +4,12 @@
    height="48"
    version="1.1"
    id="svg57"
-   sodipodi:docname="plasmadiscover.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview39"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="8.2372881"
-     inkscape:cy="24.305085"
-     inkscape:window-width="1680"
-     inkscape:window-height="965"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g55" />
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs31">
     <style
@@ -230,11 +210,12 @@
       <stop
          offset="1"
          stop-opacity="0"
-         id="stop28" />
+         id="stop28"
+         style="stop-color:#000000;stop-opacity:0.39864865;" />
     </linearGradient>
   </defs>
   <g
-     transform="matrix(1.1722222,0,0,1.1722222,-454.93482,-590.00999)"
+     transform="matrix(1.175,0,0,1.175,-456.10287,-591.465)"
      id="g55">
     <path
        d="m 402.37582,512.9292 v -2.83031 c 0,-2.50874 2.69861,-4.52837 6.05084,-4.52837 3.35222,0 6.05096,2.01963 6.05096,4.52837 v 2.83031 h -0.75639 v -2.83031 c 0,-2.1951 -2.36134,-3.96233 -5.29457,-3.96233 -2.9332,0 -5.29448,1.76723 -5.29448,3.96233 v 2.83031 z"
@@ -252,24 +233,24 @@
        id="rect35"
        class="ColorScheme-Text"
        style="display:inline;fill:url(#oomox);fill-opacity:1"
-       d="m 390.57,513.8 v 30 h 36 v -30 z m 14,9 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 7,0 5,5 -5,5 -2,-2 3,-3 -3,-3 z m -9.5,6 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 -0.831,0 -1.5,-0.669 -1.5,-1.5 0,-0.831 0.669,-1.5 1.5,-1.5 z m 4.5,6 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 -1.108,0 -2,-0.892 -2,-2 0,-1.108 0.892,-2 2,-2 z" />
+       d="m 388.86184,513.8 v 30 h 39.41575 v -30 z m 15.70816,9 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z m 7,0 5,5 -5,5 -2,-2 3,-3 -3,-3 z m -9.5,6 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 -0.831,0 -1.5,-0.669 -1.5,-1.5 0,-0.831 0.669,-1.5 1.5,-1.5 z m 4.5,6 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 -1.108,0 -2,-0.892 -2,-2 0,-1.108 0.892,-2 2,-2 z" />
     <path
        opacity="0.2"
        fill="url(#i)"
-       d="m 20.707,23.293 -1.414,1.414 8,8 L 27,33 38,44 h 4 V 38 L 32,28 28.707,31.293 Z m -2.146,6.146 -2.121,2.121 5.5,5.5 -1.354,1.354 5.586,5.586 h 6.951 z"
-       transform="translate(384.57,499.8)"
+       d="m 20.707,23.293 -1.414,1.414 8,8 L 27,33 38,44 h 5.764534 L 43.657593,38.74859 32,28 28.707,31.293 Z m -2.146,6.146 -2.121,2.121 5.5,5.5 -1.354,1.354 5.586,5.586 h 6.951 z"
        id="path37"
-       style="display:inline;fill:url(#i)" />
+       style="display:inline;opacity:0.1975;fill:url(#i)"
+       transform="translate(384.57,499.8)" />
     <path
        fill-rule="evenodd"
-       d="m 10,10 -1,1 1,1 -4,2 h 36 l -4,-2 1,-1 -1,-1 H 24 Z"
+       d="m 10,10 -1,1 1,1 -5.7058411,2 H 43.707586 L 38,12 39,11 38,10 H 24 Z"
        transform="translate(384.57,499.8)"
        id="path41"
        class="ColorScheme-Text"
        style="display:inline;fill:url(#oomox);fill-opacity:1" />
     <path
        fill-rule="evenodd"
-       d="m 10,10 -1,1 1,1 -4,2 h 36 l -4,-2 1,-1 -1,-1 H 24 Z"
+       d="m 10,10 -1,1 1,1 -5.7058411,2 H 43.707586 L 38,12 39,11 38,10 H 24 Z"
        opacity="0.6"
        transform="translate(384.57,499.8)"
        id="path43"
@@ -285,4 +266,34 @@
        class="ColorScheme-Text"
        style="fill:url(#oomox);fill-opacity:1" />
   </g>
+  <metadata
+     id="metadata181">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>dreifacherspass</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>
