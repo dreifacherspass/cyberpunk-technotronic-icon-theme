@@ -5,16 +5,57 @@
    version="1.1"
    viewBox="0 0 12.7 12.7"
    id="svg28"
+   sodipodi:docname="haruna.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview41"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="8.3389831"
+     inkscape:cy="24.101695"
+     inkscape:window-width="1680"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
   <defs
      id="defs32">
-     <style
+    <style
        id="current-color-scheme"
        type="text/css">
        .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
     </style>
+     <linearGradient
+       id="blueneonpunk"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop3010" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="1"
+         id="stop3012" />
+    </linearGradient>
     <linearGradient
        id="arrongin"
        x1="0%"
@@ -77,11 +118,13 @@
     </linearGradient>
     <linearGradient
        id="oomox"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%"
-       xlink:href="#linearGradient8335">
+       x1="13.648275"
+       x2="13.648275"
+       y1="234.01055"
+       y2="276.32403"
+       xlink:href="#linearGradient8335"
+       gradientTransform="scale(0.96923899,1.0317373)"
+       gradientUnits="userSpaceOnUse">
       <stop
          offset="0%"
          style="stop-color:#0abdc6; stop-opacity:1"
@@ -184,12 +227,42 @@
     </linearGradient>
   </defs>
   <g
-     transform="matrix(0.28451613,0,0,0.28451613,-3.2479738,-68.553311)"
+     transform="matrix(0.28484757,0,0,0.28484757,-3.2523583,-68.640568)"
      id="g26">
     <path
        id="rect4"
        class="ColorScheme-Text"
        style="fill:url(#oomox);fill-opacity:1"
-       d="M 13.22844 241.43741 L 13.22844 285.0938 L 25.136049 285.0938 L 25.136049 267.89533 L 42.3327 267.89533 L 42.3327 285.0938 L 54.24031 285.0938 L 54.24031 241.43741 L 42.3327 241.43741 L 42.3327 258.63588 L 25.136049 258.63588 L 25.136049 241.43741 L 13.22844 241.43741 z M 17.197038 248.05234 L 21.167452 248.05234 L 21.167452 252.02094 L 17.197038 252.02094 L 17.197038 248.05234 z M 46.301298 248.05234 L 50.271712 248.05234 L 50.271712 252.02094 L 46.301298 252.02094 L 46.301298 248.05234 z M 17.197038 261.2804 L 21.167452 261.2804 L 21.167452 265.25081 L 17.197038 265.25081 L 17.197038 261.2804 z M 46.301298 261.2804 L 50.271712 261.2804 L 50.271712 265.25081 L 46.301298 265.25081 L 46.301298 261.2804 z M 17.197038 274.51027 L 21.167452 274.51027 L 21.167452 278.47887 L 17.197038 278.47887 L 17.197038 274.51027 z M 46.301298 274.51027 L 50.271712 274.51027 L 50.271712 278.47887 L 46.301298 278.47887 L 46.301298 274.51027 z " />
+       d="M 13.22844,241.43741 V 285.0938 H 25.136049 V 267.89533 H 42.3327 V 285.0938 H 54.24031 V 241.43741 H 42.3327 v 17.19847 H 25.136049 v -17.19847 z m 3.968598,6.61493 h 3.970414 v 3.9686 h -3.970414 z m 29.10426,0 h 3.970414 v 3.9686 h -3.970414 z m -29.10426,13.22806 h 3.970414 v 3.97041 h -3.970414 z m 29.10426,0 h 3.970414 v 3.97041 h -3.970414 z m -29.10426,13.22987 h 3.970414 v 3.9686 h -3.970414 z m 29.10426,0 h 3.970414 v 3.9686 h -3.970414 z" />
   </g>
+  <metadata
+     id="metadata166">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>dreifacherspass</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
