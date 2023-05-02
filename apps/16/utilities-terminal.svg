@@ -87,7 +87,7 @@
        x2="4.6156863"
        y1="0.19710118"
        y2="8.841976"
-       gradientTransform="matrix(0.71177993,0,0,1.4049286,-1.7101227,0.05381356)"
+       gradientTransform="matrix(0.77607921,0,0,1.5318441,-2.4382409,-0.70263135)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0%"
@@ -193,8 +193,8 @@
   <path
      id="path1011"
      class="ColorScheme-Text"
-     style="fill:none;stroke:url(#oomox);stroke-width:0.881109;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
-     d="M 5.9609509,11.569915 H 11.180866 M 1.9605394,1.1187836 6.8497542,6.4022379 1.8457136,11.928994" />
+     style="fill:none;stroke:url(#oomox);stroke-width:0.960705;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+     d="m 5.925806,11.853788 h 5.691461 M 1.5640138,0.45854372 6.8949002,6.2192836 1.4388151,12.245305" />
   <metadata
      id="metadata165">
     <rdf:RDF>
@@ -206,7 +206,24 @@
             <dc:title>dreifacherspass</dc:title>
           </cc:Agent>
         </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
 </svg>
