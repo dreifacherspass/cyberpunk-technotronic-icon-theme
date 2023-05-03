@@ -185,86 +185,6 @@
          style="stop-color: #0f83ae; stop-opacity:1"
          id="stop9247" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient4221">
-      <stop
-         style="stop-color:#06a370;stop-opacity:1"
-         offset="0"
-         id="stop4223" />
-      <stop
-         style="stop-color:#22d1b0;stop-opacity:1"
-         offset="1"
-         id="stop4225" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4213">
-      <stop
-         style="stop-color:#728790;stop-opacity:1"
-         offset="0"
-         id="stop4215" />
-      <stop
-         style="stop-color:#85969e;stop-opacity:1"
-         offset="1"
-         id="stop4217" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient4213"
-       id="linearGradient4219"
-       x1="24.000042"
-       y1="41"
-       x2="24.000042"
-       y2="7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1624959,0,0,1.1624959,380.42142,495.64798)" />
-    <linearGradient
-       xlink:href="#linearGradient4221"
-       id="linearGradient4227"
-       x1="24.000042"
-       y1="36"
-       x2="24.000042"
-       y2="12"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1624959,0,0,1.1624959,380.42142,495.64798)" />
-    <linearGradient
-       xlink:href="#linearGradient4271"
-       id="linearGradient4235"
-       x1="24.000042"
-       y1="44"
-       x2="24.000042"
-       y2="4"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1624959,0,0,1.1624959,380.42142,495.64798)" />
-    <linearGradient
-       xlink:href="#linearGradient4400"
-       id="linearGradient4265"
-       x1="15"
-       y1="15"
-       x2="44"
-       y2="43.999973"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1624959,0,0,1.1624959,380.42142,495.64798)" />
-    <linearGradient
-       id="linearGradient4400">
-      <stop
-         style="stop-color:#020303;stop-opacity:1"
-         offset="0"
-         id="stop4402" />
-      <stop
-         style="stop-color:#424649;stop-opacity:0"
-         offset="1"
-         id="stop4404" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4271">
-      <stop
-         style="stop-color:#2a2c2f;stop-opacity:1"
-         offset="0"
-         id="stop4273" />
-      <stop
-         style="stop-color:#424649;stop-opacity:1"
-         offset="1"
-         id="stop4275" />
-    </linearGradient>
   </defs>
   <metadata
      id="metadata5458">
@@ -284,22 +204,21 @@
   </metadata>
   <g
      id="layer1"
-     transform="translate(-384.57143,-499.798)">
+     transform="matrix(1.0107562,0,0,1.0107562,-388.71334,-505.17931)">
     <path
        style="opacity:1;fill:url(#oomox);fill-opacity:0.2;stroke:none;stroke-width:3.255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.550265"
        d="m 408.32136,500.298 c -12.88046,0 -23.24993,10.36947 -23.24993,23.24991 h 1.1625 6.97496 c 0,-8.37228 6.74017,-15.11245 15.11247,-15.11245 z m 15.11245,23.24991 c 0,8.3723 -6.74017,15.11247 -15.11245,15.11247 v 8.13746 c 12.88044,0 23.24991,-10.36947 23.24991,-23.24993 z"
        id="rect4176"
-       class="ColorScheme-Text"/>
+       class="ColorScheme-Text" />
     <path
        style="opacity:1;fill:url(#oomox);fill-opacity:0.5;stroke:none;stroke-width:3.255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.550265"
        d="m 408.32136,503.7855 c -10.9484,0 -19.76243,8.81403 -19.76243,19.76241 0,10.9484 8.81403,19.76243 19.76243,19.76243 10.94838,0 19.76241,-8.81403 19.76241,-19.76243 h -8.13746 c 0,6.44021 -5.18475,11.62497 -11.62495,11.62497 -6.44022,0 -11.62497,-5.18476 -11.62497,-11.62497 0,-6.44019 5.18475,-11.62495 11.62497,-11.62495 z"
        id="rect4181"
-       class="ColorScheme-Text"
-       />
+       class="ColorScheme-Text" />
     <path
        style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:3.255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.550265"
        d="m 408.32136,509.59796 c -7.72827,0 -13.94997,6.2217 -13.94997,13.94995 0,7.72827 6.2217,13.94997 13.94997,13.94997 7.72825,0 13.94995,-6.2217 13.94995,-13.94997 0,-7.72825 -6.2217,-13.94995 -13.94995,-13.94995 z m 0,5.8125 c 4.50814,0 8.13745,3.62931 8.13745,8.13745 0,4.50816 -3.62931,8.13747 -8.13745,8.13747 -4.50816,0 -8.13747,-3.62931 -8.13747,-8.13747 0,-4.50814 3.62931,-8.13745 8.13747,-8.13745 z"
        id="rect4197"
-       class="ColorScheme-Text"/>
+       class="ColorScheme-Text" />
   </g>
 </svg>
