@@ -7,18 +7,32 @@
    viewBox="0 0 48.000001 48.000001"
    id="svg6519"
    version="1.1"
+   sodipodi:docname="ksnip.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview51"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="false" />
   <defs
      id="defs6521">
     <style
        id="current-color-scheme"
        type="text/css">
-       .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
-    </style>
+      .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
+     </style>
     <linearGradient
        id="arrongin"
        x1="0%"
@@ -185,21 +199,6 @@
          style="stop-color: #0f83ae; stop-opacity:1"
          id="stop9247" />
     </linearGradient>
-    <linearGradient
-       id="neonbluecyberpunk"
-       x1="0%"
-       x2="0%"
-       y1="0%"
-       y2="100%">
-      <stop
-         style="stop-color:#00ffff;stop-opacity:1;"
-         offset="0"
-         id="stop3010" />
-      <stop
-         style="stop-color:#0000ff;stop-opacity:1"
-         offset="1"
-         id="stop3012" />
-     </linearGradient>
   </defs>
   <metadata
      id="metadata6524">
@@ -209,13 +208,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:contributor>
           <cc:Agent>
             <dc:title>dreifacherspass</dc:title>
           </cc:Agent>
         </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -236,20 +235,55 @@
   </metadata>
   <g
      id="layer1"
-     transform="translate(0,-552.36216)">
+     transform="matrix(0.13428571,0,0,0.13428571,-9.5714285,-83.745781)">
     <g
        id="g4339"
        transform="matrix(0.87499998,0,0,0.87499991,31.250001,100.29533)">
       <path
-         id="rect4152"
+         id="rect1"
          class="ColorScheme-Text"
-         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:1.31431;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1"
-         d="m -34.571431,517.81384 13.046086,13.0368 v 26.47496 l -13.046086,13.0368 h 26.2934342 v -26.05935 l 0.2097608,-0.20929 -0.2097608,-0.20931 v -26.07027 z" />
+         d="M 50.000002,602.36222 237.23405,789.59629 V 602.36222 Z"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:1.25727;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:66.413;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
       <path
-         id="rect4152-3-7"
+         id="rect2"
          class="ColorScheme-Text"
-         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:1.31431;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1"
-         d="M 17.997831,517.79072 4.8511194,530.92804 H 17.997831 Z M 4.8508208,530.93034 v 0.01 L -8.2917851,544.07293 H 4.8549266 v -0.01 L 17.997533,530.93034 Z m 0.00265,13.14387 v 13.12408 l -2.935e-4,-1.9e-4 v 0.0115 H 4.85141 l 0.00177,0.002 v 13.12128 h 13.130852 l 0.0138,0.0116 v -0.0116 h 0.0018 l -0.0018,-0.002 V 557.20957 H 4.8669668 l -4.893e-4,-5.9e-4 H 17.999999 Z" />
+         d="M 133.94043,697.68138 V 901.93673 L 236.0681,799.80905 Z"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:9.97803;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1" />
+      <path
+         id="rect3"
+         class="ColorScheme-Text"
+         d="M 237.23464,810.87289 50.00059,998.10698 h 187.23405 z"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:9.36232;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1" />
+      <path
+         id="rect6"
+         class="ColorScheme-Text"
+         d="m 445.74471,998.10697 -93.61703,-93.61705 v 93.61705 z"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:9.36234;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1" />
+      <path
+         id="rect7"
+         class="ColorScheme-Text"
+         d="m 352.12768,900.2346 93.61703,93.61703 V 900.2346 Z"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:9.36235;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1" />
+      <path
+         id="rect5"
+         class="ColorScheme-Text"
+         d="m 445.74471,895.97928 -93.61703,-93.61703 v 93.61703 z"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:9.36236;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1" />
+      <path
+         id="rect4"
+         class="ColorScheme-Text"
+         d="m 342.32342,705.78351 -98.32341,93.19409 h 98.32341 z"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:9.57312;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1" />
+      <path
+         id="rect8"
+         class="ColorScheme-Text"
+         d="m 352.12768,794.70267 93.61703,-93.61703 h -93.61703 z"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:9.36236;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1" />
+      <path
+         id="rect9"
+         class="ColorScheme-Text"
+         d="m 445.74471,602.36222 -93.61703,93.61703 h 93.61703 z"
+         style="opacity:1;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:9.36237;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:6.7;stroke-dasharray:none;stroke-dashoffset:65;stroke-opacity:1" />
     </g>
   </g>
 </svg>
