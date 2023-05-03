@@ -7,7 +7,10 @@
    version="1.1"
    id="svg390"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs394">
     <style
@@ -15,6 +18,21 @@
        type="text/css">
        .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
     </style>
+     <linearGradient
+       id="blueneonpunk"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop3010" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="1"
+         id="stop3012" />
+    </linearGradient>
     <linearGradient
        id="arrongin"
        x1="0%"
@@ -187,4 +205,34 @@
      style="fill:url(#oomox);fill-opacity:1;stroke-width:0.87037"
      class="ColorScheme-Text"
      d="M 20.242188 0.5 C 18.684748 0.5 17.421875 1.7628734 17.421875 3.3203125 C 17.421875 4.8777516 18.684748 6.140625 20.242188 6.140625 C 27.510294 6.140625 33.400391 12.032674 33.400391 19.300781 C 33.400391 20.858221 34.663264 22.119141 36.220703 22.119141 C 37.778142 22.119141 39.041016 20.858221 39.041016 19.300781 C 39.041016 8.9178388 30.625173 0.5 20.242188 0.5 z M 19.300781 8.9609375 C 8.9178388 8.9609375 0.49999955 17.37678 0.5 27.759766 C 0.50000007 29.317205 1.7628733 30.580078 3.3203125 30.580078 C 4.8777516 30.580078 6.140625 29.317205 6.140625 27.759766 C 6.140625 20.491658 12.032761 14.599609 19.300781 14.599609 C 20.858221 14.599609 22.119141 13.336736 22.119141 11.779297 C 22.119141 10.221857 20.858221 8.9609375 19.300781 8.9609375 z M 44.679688 17.419922 C 43.122248 17.419922 41.859375 18.682795 41.859375 20.240234 C 41.859375 27.508342 35.967239 33.400391 28.699219 33.400391 C 27.141779 33.400391 25.880859 34.663264 25.880859 36.220703 C 25.880859 37.778143 27.141779 39.039062 28.699219 39.039062 C 39.082204 39.039062 47.5 30.62322 47.5 20.240234 C 47.5 18.682795 46.237127 17.419922 44.679688 17.419922 z M 11.779297 25.880859 C 10.221858 25.880859 8.9589844 27.141779 8.9589844 28.699219 C 8.9589844 39.082204 17.374914 47.5 27.757812 47.5 C 29.315252 47.5 30.578125 46.237127 30.578125 44.679688 C 30.578125 43.122248 29.315252 41.859375 27.757812 41.859375 C 20.489793 41.859375 14.599609 35.967239 14.599609 28.699219 C 14.599609 27.141779 13.336736 25.880859 11.779297 25.880859 z " />
+  <metadata
+     id="metadata188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>dreifacherspass</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>
