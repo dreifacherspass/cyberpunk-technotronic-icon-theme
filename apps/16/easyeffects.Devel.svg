@@ -5,7 +5,6 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg35"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,7 +13,13 @@
   <defs
      id="defs39">
     <linearGradient
-       id="linearGradient2284">
+       id="linearGradient2284"
+       gradientTransform="scale(1.6440072,0.60826983)"
+       x1="0"
+       y1="132.57439"
+       x2="77.858538"
+       y2="132.57439"
+       gradientUnits="userSpaceOnUse">
       <stop
          style="stop-color:#41ff00;stop-opacity:1;"
          offset="0"
@@ -254,7 +259,7 @@
   </g>
   <g
      id="g1840"
-     transform="matrix(0.3703096,0,0,0.3703096,14.445205,26.021357)">
+     transform="matrix(0.36718463,0,0,0.36951638,14.525836,25.968012)">
     <path
        d="M 128,80.641 V 128 H 0 V 80.641 Z"
        id="path359"
