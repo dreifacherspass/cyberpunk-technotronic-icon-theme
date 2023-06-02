@@ -236,18 +236,22 @@
     <path
        d="m 19,12 c 0,3.866 -3.134,7 -7,7 -3.86599,0 -7,-3.134 -7,-7 0,-3.86599 3.13401,-7 7,-7 3.866,0 7,3.13401 7,7 z m 2,0 c 0,4.9706 -4.0294,9 -9,9 C 7.02944,21 3,16.9706 3,12 3,7.02944 7.02944,3 12,3 14.1676,3 16.1562,3.7663 17.7098,5.04277 17.299,5.16714 17,5.54865 17,6 17,6.55228 17.4477,7 18,7 18.4514,7 18.8329,6.70097 18.9572,6.29022 20.2337,7.84375 21,9.83239 21,12 Z"
        id="path3908"
+       class="ColorScheme-Text"
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient170);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <path
        d="m 17.7071,7.70711 -4,3.99999 -1.4142,-1.4142 4,-4.00001 z"
        id="path3904"
+       class="ColorScheme-Text"
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient172);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <path
        d="m 12.046005,12.953995 c 0.5523,0 1,-0.4477 1,-1 0,-0.5523 -0.4477,-1 -1,-1 -0.5523,0 -1,0.4477 -1,1 0,0.5523 0.4477,1 1,1 z m 0,2 c 1.6569,0 3,-1.3431 3,-3 0,-1.6569 -1.3431,-2.9999998 -3,-2.9999998 -1.65685,0 -3.0000002,1.3430998 -3.0000002,2.9999998 0,1.6569 1.3431502,3 3.0000002,3 z"
        id="path3902"
+       class="ColorScheme-Text"
        style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient174);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <path
        d="m 18,7 c 0.5523,0 1,-0.44772 1,-1 0,-0.55228 -0.4477,-1 -1,-1 -0.5523,0 -1,0.44772 -1,1 0,0.55228 0.4477,1 1,1 z m 0,2 c 1.6569,0 3,-1.34315 3,-3 0,-1.65685 -1.3431,-3 -3,-3 -1.6569,0 -3,1.34315 -3,3 0,1.65685 1.3431,3 3,3 z"
        id="path3906"
+       class="ColorScheme-Text"
        style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient176);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
   </g>
   <metadata
