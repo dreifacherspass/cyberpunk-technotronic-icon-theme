@@ -184,52 +184,25 @@
          style="stop-color: #0f83ae; stop-opacity:1"
          id="stop58" />
     </linearGradient>
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient354"
-       x1="36.569771"
-       y1="5.7092862"
-       x2="36.569771"
-       y2="15.546497"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.6395441)" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient358"
-       x1="19.481"
-       y1="1.3371997"
-       x2="19.481"
-       y2="15.546517"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.44599147)" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient360"
-       x1="37.509131"
-       y1="16.599148"
-       x2="37.509131"
-       y2="34.425822"
-       gradientTransform="matrix(0.8583954,0,0,1.1649643,-1.6464844e-6,0)"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      d="m 33.283047,19.337415 h 12.140215 c 1.146957,0 2.076737,0.92978 2.076737,2.076738 0,0 0,0 0,0 v 11.058121 c 0,4.215367 -3.417213,7.63258 -7.632579,7.63258 v 0 h -0.03608 c -4.215367,5.96e-4 -7.633064,-3.416138 -7.633676,-7.631505 0,-3.97e-4 0,-6.95e-4 0,-0.0011 V 20.422798 c 2.1e-5,-0.599448 0.485957,-1.085383 1.085383,-1.085383 z"
      id="path2"
      class="ColorScheme-Text"
-     style="opacity:0.5;fill:url(#linearGradient360);fill-opacity:1;stroke-width:0.0210873" />
+     style="opacity:0.5;fill:url(#oomox);fill-opacity:1;stroke-width:0.0210873" />
   <circle
      cx="39.848831"
      cy="10.627892"
      id="circle4"
      class="ColorScheme-Text"
-     style="opacity:0.5;fill:url(#linearGradient354);fill-opacity:1;stroke-width:0.0210873"
+     style="opacity:0.5;fill:url(#oomox);fill-opacity:1;stroke-width:0.0210873"
      r="4.9186053" />
   <circle
      cx="26.139668"
      cy="8.4418583"
      id="circle6"
      class="ColorScheme-Text"
-     style="fill:url(#linearGradient358);fill-opacity:1;stroke-width:0.0210873"
+     style="fill:url(#oomox);fill-opacity:1;stroke-width:0.0210873"
      r="7.1046586" />
   <path
      d="M 36.15941,19.3372 H 16.119905 c -1.133293,0.02805 -2.029798,0.968558 -2.003502,2.101894 v 12.612402 c -0.15826,6.801045 5.22241,12.444862 12.023265,12.611304 6.800855,-0.166443 12.181504,-5.810259 12.023265,-12.611305 V 21.439092 c 0.02625,-1.133334 -0.87023,-2.073847 -2.003523,-2.101892 z"
