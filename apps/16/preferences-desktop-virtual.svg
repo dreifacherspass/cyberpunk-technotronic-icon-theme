@@ -183,45 +183,11 @@
          id="stop9247" />
     </linearGradient>
   </defs>
-  <g
-     id="g1745">
-    <path
-       d="M 0.5,26.611111 H 21.388889 V 44.888889 H 0.5 Z m 26.111111,-23.5 H 47.5 V 21.388889 H 26.611111 Z m 0,23.5 H 47.5 V 44.888889 H 26.611111 Z"
-       fill-rule="evenodd"
-       stroke-width="1.63194"
-       id="path37"
-       class="ColorScheme-Text"
-       style="display:inline;fill:url(#oomox);fill-opacity:1" />
-    <path
-       d="M 0.5,26.611111 H 21.388889 V 44.888889 H 0.5 Z m 26.111111,-23.5 H 47.5 V 21.388889 H 26.611111 Z m 0,23.5 H 47.5 V 44.888889 H 26.611111 Z"
-       fill-rule="evenodd"
-       stroke-width="1.63194"
-       id="path37-3"
-       style="display:inline;opacity:0.5;fill:#000000;fill-opacity:1" />
-  </g>
-  <g
-     id="g1156"
-     transform="matrix(2.6111111,0,0,2.6111111,-4.7222222,-4.7222223)">
-    <path
-       d="m 2,3 h 8 v 7 H 2 Z"
-       fill-rule="evenodd"
-       stroke-width="0.57735"
-       id="path35"
-       class="ColorScheme-Text"
-       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:0.758585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <path
-       d="M 3,4 V 9 H 9 V 4 Z M 4,5 H 8 V 8 H 4 Z"
-       fill-rule="evenodd"
-       stroke-width="0.79057"
-       id="path43"
-       style="display:inline;opacity:0.25;fill:#ffffff;fill-opacity:1" />
-    <path
-       d="M 4,5 H 8 V 8 H 4 Z"
-       fill-rule="evenodd"
-       stroke-width="0.5"
-       id="path41"
-       style="display:inline;opacity:0.5;fill:#000000;fill-opacity:1" />
-  </g>
+  <path
+     id="path914"
+     class="ColorScheme-Text"
+     style="display:inline;fill:url(#oomox);fill-opacity:1;opacity:0.5"
+     d="M 26.611328 26.611328 L 26.611328 44.888672 L 47.5 44.888672 L 47.5 26.611328 L 26.611328 26.611328 z M 29.222656 29.222656 L 44.888672 29.222656 L 44.888672 42.277344 L 29.222656 42.277344 L 29.222656 29.222656 z M 31.833984 31.833984 L 31.833984 39.666016 L 42.277344 39.666016 L 42.277344 31.833984 L 31.833984 31.833984 z " />
   <metadata
      id="metadata1212">
     <rdf:RDF>
@@ -253,15 +219,19 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="M 29.222,29.222 V 42.277555 H 44.888667 V 29.222 Z m 2.611111,2.611111 h 10.444445 v 7.833333 H 31.833111 Z"
-     fill-rule="evenodd"
-     stroke-width="2.06427"
-     id="path43-2"
-     style="display:inline;opacity:0.25;fill:#ffffff;fill-opacity:1" />
+     style="display:inline;fill:url(#oomox);fill-opacity:1;opacity:0.5"
+     d="M 0.5,26.611111 H 21.388889 V 44.888889 H 0.5 Z"
+     id="path37"
+     class="ColorScheme-Text"/>
   <path
-     d="m 31.833111,31.833111 h 10.444445 v 7.833333 H 31.833111 Z"
-     fill-rule="evenodd"
-     stroke-width="1.30556"
-     id="path41-7"
-     style="display:inline;opacity:0.5;fill:#000000;fill-opacity:1" />
+     style="display:inline;fill:url(#oomox);fill-opacity:1;opacity:0.5"
+     d="M 26.611111,3.111111 H 47.5 V 21.388889 H 26.611111 Z"
+     id="path912"
+     class="ColorScheme-Text"/>
+  <path
+     id="path35"
+     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:0.758585;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     class="ColorScheme-Text"
+     d="M 2 3.0000832 L 2 9.999917 L 9.9999169 9.999917 L 9.9999169 3.0000832 L 2 3.0000832 z M 3.0000831 4.0001663 L 8.9998338 4.0001663 L 8.9998338 8.9998338 L 3.0000831 8.9998338 L 3.0000831 4.0001663 z M 4.0001662 5.0002494 L 4.0001662 7.9997507 L 7.9997507 7.9997507 L 7.9997507 5.0002494 L 4.0001662 5.0002494 z "
+     transform="matrix(2.6111111,0,0,2.6111111,-4.7222222,-4.7222223)" />
 </svg>
