@@ -5,7 +5,6 @@
    id="svg4982"
    width="48"
    height="48"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -197,7 +196,7 @@
        id="rect49"
        class="ColorScheme-Text"
        transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:url(#oomox);fill-opacity:1" />
+       style="fill:url(#oomox);fill-opacity:1;opacity:0.5" />
     <rect
        x="74.067001"
        y="71.708"
@@ -207,7 +206,7 @@
        id="rect50"
        class="ColorScheme-Text"
        transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:url(#oomox);fill-opacity:1" />
+       style="fill:url(#oomox);fill-opacity:1;opacity:0.5" />
     <rect
        x="18.15"
        y="85.127998"
@@ -217,7 +216,7 @@
        id="rect51"
        class="ColorScheme-Text"
        transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:url(#oomox);fill-opacity:1" />
+       style="fill:url(#oomox);fill-opacity:1;opacity:0.5" />
     <rect
        x="18.15"
        y="71.708"
@@ -228,7 +227,7 @@
        id="rect52"
        class="ColorScheme-Text"
        transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:url(#oomox);fill-opacity:1" />
+       style="fill:url(#oomox);fill-opacity:1;opacity:0.5" />
     <rect
        x="18.15"
        y="58.289001"
@@ -239,7 +238,7 @@
        id="rect53"
        class="ColorScheme-Text"
        transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:url(#oomox);fill-opacity:1" />
+       style="fill:url(#oomox);fill-opacity:1;opacity:0.5" />
     <rect
        x="18.15"
        y="44.868999"
@@ -250,7 +249,7 @@
        id="rect54"
        class="ColorScheme-Text"
        transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:url(#oomox);fill-opacity:1" />
+       style="fill:url(#oomox);fill-opacity:1;opacity:0.5" />
     <rect
        x="18.15"
        y="31.450001"
@@ -262,67 +261,6 @@
        class="ColorScheme-Text"
        transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
        style="fill:url(#oomox);fill-opacity:1" />
-  </g>
-  <g
-     id="g67-1"
-     transform="matrix(1.1107258,0,0,1.1107258,-0.05536181,0.91128551)">
-    <rect
-       x="74.067001"
-       y="85.127998"
-       width="35.785"
-       height="8.9462996"
-       ry="0"
-       id="rect50-1"
-       transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:#000000;fill-opacity:0.5" />
-    <rect
-       x="74.067001"
-       y="71.708"
-       width="23.856001"
-       height="8.9462996"
-       ry="0"
-       id="rect51-1"
-       transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:#000000;fill-opacity:0.5" />
-    <rect
-       x="18.15"
-       y="85.127998"
-       width="23.856001"
-       height="8.9462996"
-       ry="0"
-       id="rect51-2"
-       transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:#000000;fill-opacity:0.5" />
-    <rect
-       x="18.15"
-       y="71.708"
-       width="42.487"
-       height="8.9462996"
-       ry="0"
-       stroke-width="1.7232"
-       id="rect51-3"
-       transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:#000000;fill-opacity:0.5" />
-    <rect
-       x="18.15"
-       y="58.289001"
-       width="35.785"
-       height="8.9462996"
-       ry="0"
-       stroke-width="1.5815"
-       id="rect51-4"
-       transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:#000000;fill-opacity:0.5" />
-    <rect
-       x="18.15"
-       y="44.868999"
-       width="40.484001"
-       height="8.9462996"
-       ry="0"
-       stroke-width="1.6821"
-       id="rect51-5"
-       transform="matrix(0.46143674,0,0,0.46143674,-7.8750769,-8.1726551)"
-       style="fill:#000000;fill-opacity:0.5" />
   </g>
   <path
      id="path4948"
