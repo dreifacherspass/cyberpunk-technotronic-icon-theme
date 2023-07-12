@@ -184,20 +184,22 @@
          style="stop-color: #0f83ae; stop-opacity:1"
          id="stop9247" />
     </linearGradient>
- </defs>
+  </defs>
   <path
      id="path17"
-     class="ColorScheme-Text"
      style="display:inline;fill:url(#oomox);fill-opacity:1;stroke-width:2.9375"
-     d="M 0.5,0.5 V 3.4375 C 0.5,5.0648732 1.8101268,6.375 3.4375,6.375 H 5.4914552 L 21.0625,28.618531 V 41.625 l 5.875,5.875 V 28.618531 L 42.508544,6.375 H 44.5625 C 46.189872,6.375 47.5,5.0648732 47.5,3.4375 V 0.5 H 44.5625 3.4375 Z" />
+     class="ColorScheme-Text"
+     d="M 5.4921875 6.375 L 21.0625 28.619141 L 21.0625 38.6875 L 26.9375 44.5625 L 26.9375 28.619141 L 42.507812 6.375 L 5.4921875 6.375 z " />
   <path
-     d="M 44.5625,6.375 C 46.189875,6.375 47.5,5.064875 47.5,3.4375 V 0.5 h -47 v 2.9375 c 0,1.627375 1.3101247,2.9375 2.9374997,2.9375 z"
-     id="path23-7"
-     style="display:inline;opacity:0.4;fill:#000000;fill-opacity:1;stroke-width:2.9375" />
+     d="m 44.562501,6.375 c 1.627375,0 2.9375,-1.310125 2.9375,-2.9375 V 0.5 H 0.5 v 2.9375 c 0,1.627375 1.310125,2.9375 2.9375,2.9375 z"
+     id="path23-7-3"
+     class="ColorScheme-Text"
+     style="display:inline;opacity:0.5;fill:url(#oomox);fill-opacity:1;stroke-width:2.9375" />
   <path
-     d="m 21.0625,41.625 v -2.9375 l 5.875,5.875 V 47.5 Z"
+     d="M 21.0625,41.6255 V 38.688 l 5.875,5.875 v 2.9375 z"
      id="path25"
-     style="display:inline;opacity:0.4;fill:#000000;fill-opacity:0.98;stroke-width:2.9375" />
+     class="ColorScheme-Text"
+     style="display:inline;opacity:0.5;fill:url(#oomox);fill-opacity:1;stroke-width:2.9375" />
   <metadata
      id="metadata1318">
     <rdf:RDF>
