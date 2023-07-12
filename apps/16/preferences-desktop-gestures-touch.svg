@@ -4,6 +4,7 @@
    width="48"
    version="1.1"
    id="svg4033"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -182,38 +183,12 @@
          style="stop-color: #0f83ae; stop-opacity:1"
          id="stop9247" />
     </linearGradient>
-    <linearGradient
-       id="shadow"
-       x1="0.17951393"
-       x2="9.4533863"
-       y1="29.981348"
-       y2="29.981348"
-       gradientTransform="matrix(2.7852992,0,0,0.35902786,0,-1.389e-4)"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         offset="0"
-         style="stop-color:#000000;stop-opacity:0.6881721;"
-         id="stop9212-6" />
-      <stop
-         offset="1"
-         style="stop-color:#000000;stop-opacity:0;"
-         id="stop9214-7" />
-    </linearGradient>
   </defs>
   <path
-     d="M 25.932448,14.042407 H 0.5 v -3.278268 h 25.432448 z"
      id="path431"
+     style="fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:5.41571;stroke-dasharray:none"
      class="ColorScheme-Text"
-     style="fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:4.90284;stroke-dasharray:none" />
-  <path
-     d="M 25.932448,14.042268 H 0.5 V 10.764 h 25.432448 z"
-     id="path431-2"
-     style="fill:url(#shadow);fill-opacity:1;stroke:none;stroke-width:4.90284;stroke-dasharray:none" />
-  <path
-     d="m 27.357215,12.250042 c 0,-1.854093 1.503054,-3.357131 3.357131,-3.357131 1.854109,0 3.357131,1.503038 3.357131,3.357131 v 8.392827 L 39.107173,18.964304 47.5,24 45.821435,39.107089 h -18.46422 c 0,0 -1.970032,-4.091101 -2.978615,-5.710144 -2.121538,-3.405641 -4.368631,-7.012744 -7.092946,-8.851445 0,0 2.031075,-5.897807 10.071393,1.515006 z"
-     id="path432"
-     class="ColorScheme-Text"
-     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:2.54667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+     d="M 0.5 8.8925781 L 0.5 12.892578 L 25.931641 12.892578 L 25.931641 8.8925781 L 0.5 8.8925781 z M 30.714844 8.8925781 C 28.860767 8.8925781 27.357422 10.395911 27.357422 12.25 L 27.357422 26.060547 C 19.317112 18.647741 17.285156 24.544922 17.285156 24.544922 C 20.00947 26.383623 22.257373 29.990844 24.378906 33.396484 C 25.387493 35.015523 27.357422 39.107422 27.357422 39.107422 L 45.822266 39.107422 L 47.5 24 L 39.107422 18.964844 L 34.072266 20.642578 L 34.072266 12.25 C 34.072266 10.395911 32.568948 8.8925781 30.714844 8.8925781 z " />
   <metadata
      id="metadata4773">
     <rdf:RDF>
