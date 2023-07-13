@@ -183,6 +183,32 @@
          style="stop-color: #0f83ae; stop-opacity:1"
          id="stop9247" />
     </linearGradient>
+    <linearGradient
+       xlink:href="#oomox"
+       id="linearGradient9601"
+       x1="0.5"
+       y1="6.2383733"
+       x2="47.5"
+       y2="6.2383733"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#oomox"
+       id="linearGradient9886"
+       x1="0.47003217"
+       y1="3.4386554"
+       x2="0.47003217"
+       y2="47.621679"
+       gradientTransform="matrix(1.063757,0,0,0.78101058,0,7.5744072)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#oomox"
+       id="linearGradient9888"
+       x1="0.17882042"
+       y1="9.0385632"
+       x2="0.17882042"
+       y2="25.847683"
+       gradientTransform="matrix(2.7961012,0,0,0.4181407,0,-0.54683167)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4301">
@@ -217,18 +243,14 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="font-variation-settings:normal;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.83472;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-     id="rect5505-21-3-8-5-2"
-     class="ColorScheme-Text"
-     y="3.2325573"
-     x="0.5"
-     ry="1.6395348"
-     rx="1.6395348"
-     height="41.534885"
-     width="47" />
   <path
-     style="display:inline;opacity:0.4;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.09302;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal"
-     d="M 2.1395349,3.2325594 C 1.2312326,3.2325594 0.5,3.9637919 0.5,4.8720943 v 4.372093 h 47 v -4.372093 c 0,-0.9083024 -0.731233,-1.6395349 -1.639535,-1.6395349 z"
-     id="rect921-3" />
+     id="path5505"
+     style="display:inline;overflow:visible;opacity:1;vector-effect:none;fill:url(#oomox);stroke-width:1.67232;marker:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     class="ColorScheme-Text"
+     d="m 0.5,10.260034 h 47 v 34.507408 h -47 z" />
+  <path
+     style="display:inline;opacity:0.5;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:1.18186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal"
+     d="M 2.1395349,3.2325594 C 1.2312326,3.2325594 0.5,4.0874899 0.5,5.1494441 v 5.1116919 h 47 V 5.1494441 c 0,-1.0619542 -0.731233,-1.9168847 -1.639535,-1.9168847 z"
+     id="path921"
+     class="ColorScheme-Text"/>
 </svg>
