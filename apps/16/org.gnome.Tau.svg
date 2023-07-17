@@ -14,6 +14,17 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient884">
+      <stop
+         style="stop-color:#0abdc6;stop-opacity:1;"
+         offset="0"
+         id="stop880" />
+      <stop
+         style="stop-color:#0abdc6;stop-opacity:0;"
+         offset="1"
+         id="stop882" />
+    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">
@@ -188,39 +199,10 @@
   </defs>
   <path
      d="m 8.4948911,12.525028 q -1.0385789,0 -1.9191131,-0.293511 Q 5.6952438,11.915428 5.1533766,11.102627 4.6115093,10.289826 4.6115093,8.7771132 V 1.7102616 H 1.360306 V 0.17497116 h 9.979388 V 1.7102616 H 6.6209336 V 8.573913 q 0,1.3095125 0.5870228,1.828802 0.6096007,0.519289 1.5804461,0.519289 0.4967116,0 1.016001,-0.06773 0.5418675,-0.09031 0.9031125,-0.180622 v 1.490134 q -0.31609,0.135467 -0.9482681,0.248356 -0.6096006,0.112889 -1.2643568,0.112889 z"
-     style="font-size:22.5778px;-inkscape-font-specification:sans-serif;fill:url(#oomox);fill-opacity:1;stroke-width:0.079375;paint-order:markers fill stroke;stop-color:#000000"
+     style="font-size:22.5778px;-inkscape-font-specification:sans-serif;display:inline;fill:url(#oomox);fill-opacity:1;stroke-width:0.079375;paint-order:markers fill stroke;stop-color:#000000"
      id="path1462"
      class="ColorScheme-Text"
      transform="matrix(1.0069115,0,0,1.0069115,-1.2374158,-0.04388879)" />
-  <g
-     id="g2643">
-    <path
-       d="M 77.802446,92.785316 C 76.192446,92.000316 77.73,81.804 77.395,76.461 l 13.156,6.777 c -4.32,3.04 -11.214846,10.445169 -12.667846,9.668169"
-       id="path30"
-       class="ColorScheme-Text"
-       style="fill:url(#oomox);fill-opacity:1"
-       transform="matrix(0.1139946,-0.06210582,0.05525606,0.13389206,-2.4731252,4.9652076)" />
-    <path
-       d="m 109.46974,14.76829 c -0.1801,-0.03276 -0.63414,-0.172505 -1.6191,-0.03024 -1.05949,0.15303 -1.84001,1.010731 -1.88258,1.127496 L 88.778,52.375 78.48,74.242 l -1.054,2.246 -0.04,3.66 7.077921,3.606694 3.487927,1.509724 L 90.562,83.23 91.617,80.984 101.914,59.117 118.95886,22.909158 c 0.24729,-0.533106 0.60119,-1.252231 0.52663,-2.102008 -0.0982,-1.119399 -1.21193,-2.05812 -2.34459,-2.555274 -2.56648,-1.166053 -7.30342,-3.483709 -7.67116,-3.483586 z"
-       id="path32"
-       class="ColorScheme-Text"
-       style="display:inline;fill:url(#oomox);fill-opacity:1"
-       transform="matrix(0.1139946,-0.06210582,0.05525606,0.13389206,-2.4731252,4.9652076)" />
-    <path
-       d="M 109.51822,19.663112 93.114749,54.611752 C 88.877014,63.640518 84.599178,72.651084 80.39001,81.69275 l 4.431209,2.243041 3.136179,1.329781 L 90.562,83.231 91.617,80.984 101.914,59.117 118.51895,23.8167 c -0.45951,-0.213143 -1.17158,-0.465662 -2.34758,-1.067662 z"
-       id="path34"
-       style="display:inline;opacity:0.596886;fill:#000000;fill-opacity:0.444646"
-       transform="matrix(0.1139946,-0.06210582,0.05525606,0.13389206,-2.4731252,4.9652076)" />
-    <path
-       d="m 87.509192,78.845556 -2.437379,5.189225 2.897303,1.230296 L 90.562,83.23 91.617,80.984 118.51949,23.815593 c -0.73962,-0.34307 -1.47414,-0.687839 -4.19311,-1.94903"
-       id="path36"
-       style="display:inline;opacity:0.3;fill:#000000;fill-opacity:1"
-       transform="matrix(0.1139946,-0.06210582,0.05525606,0.13389206,-2.4731252,4.9652076)" />
-    <path
-       d="m 10.923618,0.13140553 c -0.245612,-3.1457e-4 -0.436758,0.2079567 -0.439743,0.400826 -1.05e-4,0.006771 2.1e-5,0.25568492 3.86e-4,0.26255202 l 1.871318,-0.001034 c 0,-0.0392215 -0.0033,-0.24897448 -0.0035,-0.25431278 -0.0084,-0.31532071 -0.246998,-0.41098171 -0.480608,-0.4062594 z"
-       id="path38"
-       style="display:inline;fill:#000000;fill-opacity:0.2;stroke-width:0.136511" />
-  </g>
   <metadata
      id="metadata132">
     <rdf:RDF>
@@ -251,4 +233,40 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="opacity:1;fill:url(#oomox);stroke-width:0.0968288;paint-order:markers fill stroke;stop-color:#000000"
+     id="rect408"
+     class="ColorScheme-Text"
+     width="0.63499999"
+     height="10.292331"
+     x="10.45616"
+     y="0.13229166"
+     rx="0"
+     ry="0" />
+  <rect
+     style="opacity:0.8;fill:url(#oomox);stroke-width:0.0968288;paint-order:markers fill stroke;stop-color:#000000"
+     id="rect408-7"
+     class="ColorScheme-Text"
+     width="0.63499999"
+     height="10.292331"
+     x="11.09116"
+     y="0.13229166"
+     rx="0"
+     ry="0" />
+  <rect
+     style="opacity:0.6;fill:url(#oomox);stroke-width:0.0968288;paint-order:markers fill stroke;stop-color:#000000"
+     id="rect408-7-5"
+     class="ColorScheme-Text"
+     width="0.63499999"
+     height="10.292331"
+     x="11.72"
+     y="0.13229166"
+     rx="0"
+     ry="0" />
+  <path
+     style="opacity:1;fill:url(#oomox);stroke-width:0.13679;paint-order:markers fill stroke;stop-color:#000000"
+     id="path435"
+     class="ColorScheme-Text"
+     d="m 10.458755,10.820909 -0.329857,-0.571329 0.659714,0 z"
+     transform="matrix(2.8783909,0,0,3.704812,-18.698858,-27.551478)" />
 </svg>
