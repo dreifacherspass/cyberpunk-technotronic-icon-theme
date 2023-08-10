@@ -11,262 +11,59 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs
-     id="defs24">
-    <style
-       id="current-color-scheme"
-       type="text/css">&#10;   .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }&#10;  </style>
-    <linearGradient
-       id="arrongin"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0%"
-         style="stop-color:#dd9b44; stop-opacity:1"
-         id="stop1" />
-      <stop
-         offset="100%"
-         style="stop-color:#ad6c16; stop-opacity:1"
-         id="stop2" />
-    </linearGradient>
-    <linearGradient
-       id="aurora"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0%"
-         style="stop-color:#09D4DF; stop-opacity:1"
-         id="stop3" />
-      <stop
-         offset="100%"
-         style="stop-color:#9269F4; stop-opacity:1"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       id="cyberneon"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0"
-         style="stop-color:#0abdc6; stop-opacity:1"
-         id="stop5" />
-      <stop
-         offset="1"
-         style="stop-color:#ea00d9; stop-opacity:1"
-         id="stop6" />
-    </linearGradient>
-    <linearGradient
-       id="fitdance"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0%"
-         style="stop-color:#1AD6AB; stop-opacity:1"
-         id="stop7" />
-      <stop
-         offset="100%"
-         style="stop-color:#329DB6; stop-opacity:1"
-         id="stop8" />
-    </linearGradient>
-    <linearGradient
-       id="oomox"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0%"
-         style="stop-color:#0abdc6; stop-opacity:1"
-         id="stop9" />
-      <stop
-         offset="100%"
-         style="stop-color:#b800ff; stop-opacity:1"
-         id="stop10" />
-    </linearGradient>
-    <linearGradient
-       id="rainblue"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0%"
-         style="stop-color:#00F260; stop-opacity:1"
-         id="stop11" />
-      <stop
-         offset="100%"
-         style="stop-color:#0575E6; stop-opacity:1"
-         id="stop12" />
-    </linearGradient>
-    <linearGradient
-       id="sunrise"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0%"
-         style="stop-color: #FF8501; stop-opacity:1"
-         id="stop13" />
-      <stop
-         offset="100%"
-         style="stop-color: #FFCB01; stop-opacity:1"
-         id="stop14" />
-    </linearGradient>
-    <linearGradient
-       id="telinkrin"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0%"
-         style="stop-color: #b2ced6; stop-opacity:1"
-         id="stop15" />
-      <stop
-         offset="100%"
-         style="stop-color: #6da5b7; stop-opacity:1"
-         id="stop16" />
-    </linearGradient>
-    <linearGradient
-       id="60spsycho"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0%"
-         style="stop-color: #df5940; stop-opacity:1"
-         id="stop17" />
-      <stop
-         offset="25%"
-         style="stop-color: #d8d15f; stop-opacity:1"
-         id="stop18" />
-      <stop
-         offset="50%"
-         style="stop-color: #e9882a; stop-opacity:1"
-         id="stop19" />
-      <stop
-         offset="100%"
-         style="stop-color: #279362; stop-opacity:1"
-         id="stop20" />
-    </linearGradient>
-    <linearGradient
-       id="90ssummer"
-       x1="0"
-       x2="0"
-       y1="0"
-       y2="1">
-      <stop
-         offset="0%"
-         style="stop-color: #f618c7; stop-opacity:1"
-         id="stop21" />
-      <stop
-         offset="20%"
-         style="stop-color: #94ffab; stop-opacity:1"
-         id="stop22" />
-      <stop
-         offset="50%"
-         style="stop-color: #fbfd54; stop-opacity:1"
-         id="stop23" />
-      <stop
-         offset="100%"
-         style="stop-color: #0f83ae; stop-opacity:1"
-         id="stop24" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient24"
-       x1="1"
-       y1="1"
-       x2="1"
-       y2="5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient25"
-       x1="1"
-       y1="6"
-       x2="1"
-       y2="10"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient26"
-       x1="1"
-       y1="11"
-       x2="1"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient27"
-       x1="6"
-       y1="1"
-       x2="6"
-       y2="5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient28"
-       x1="6"
-       y1="6"
-       x2="6"
-       y2="10"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient29"
-       x1="6"
-       y1="11"
-       x2="6"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient30"
-       x1="11"
-       y1="1"
-       x2="11"
-       y2="5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient31"
-       x1="11"
-       y1="6"
-       x2="11"
-       y2="10"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient32"
-       x1="11"
-       y1="11"
-       x2="11"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#oomox"
-       id="linearGradient33"
-       x1="1"
-       y1="1"
-       x2="1"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+  <defs>
+   <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#ad6c16; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+    <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+    <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#0abdc6; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#b800ff; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color:#0575E6; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #FF8501; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #FFCB01; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #b2ced6; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #6da5b7; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #df5940; stop-opacity:1"/>
+   <stop offset="25%" style="stop-color: #d8d15f; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #e9882a; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #279362; stop-opacity:1"/>
+  </linearGradient>
+  <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+   <stop offset="0%" style="stop-color: #f618c7; stop-opacity:1"/>
+   <stop offset="20%" style="stop-color: #94ffab; stop-opacity:1"/>
+   <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
+   <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
+  </linearGradient>
+ </defs>
   <g
      id="layer1"
      class="ColorScheme-Text"
-     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient33);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
      transform="translate(3,3)">
     <rect
        id="rect956"
@@ -275,7 +72,7 @@
        height="4"
        x="1"
        y="1"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient24);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        id="rect958"
        class="ColorScheme-Text"
@@ -283,7 +80,7 @@
        height="4"
        x="1"
        y="6"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient25);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        id="rect960"
        class="ColorScheme-Text"
@@ -291,7 +88,7 @@
        height="4"
        x="1"
        y="11"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient26);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        id="rect962"
        class="ColorScheme-Text"
@@ -299,7 +96,7 @@
        height="4"
        x="6"
        y="1"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient27);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        id="rect964"
        class="ColorScheme-Text"
@@ -307,7 +104,7 @@
        height="4"
        x="6"
        y="6"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient28);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        id="rect966"
        class="ColorScheme-Text"
@@ -315,7 +112,7 @@
        height="4"
        x="6"
        y="11"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient29);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        id="rect968"
        class="ColorScheme-Text"
@@ -323,7 +120,7 @@
        height="4"
        x="11"
        y="1"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient30);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        id="rect970"
        class="ColorScheme-Text"
@@ -331,7 +128,7 @@
        height="4"
        x="11"
        y="6"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient31);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
     <rect
        id="rect972"
        class="ColorScheme-Text"
@@ -339,7 +136,7 @@
        height="4"
        x="11"
        y="11"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient32);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
   </g>
   <metadata
      id="metadata1">
