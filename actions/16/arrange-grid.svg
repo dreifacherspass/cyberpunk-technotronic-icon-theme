@@ -5,7 +5,6 @@
    viewBox="0 0 16 16"
    height="16"
    width="16"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -60,83 +59,87 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
   </linearGradient>
  </defs>
-  <g
-     id="layer1"
+  <rect
+     id="rect956"
      class="ColorScheme-Text"
-     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1">
-    <rect
-       id="rect956"
-       class="ColorScheme-Text"
-       width="4"
-       height="4"
-       x="1"
-       y="1"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <rect
-       id="rect958"
-       class="ColorScheme-Text"
-       width="4"
-       height="4"
-       x="1"
-       y="6"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <rect
-       id="rect960"
-       class="ColorScheme-Text"
-       width="4"
-       height="4"
-       x="1"
-       y="11"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <rect
-       id="rect962"
-       class="ColorScheme-Text"
-       width="4"
-       height="4"
-       x="6"
-       y="1"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <rect
-       id="rect964"
-       class="ColorScheme-Text"
-       width="4"
-       height="4"
-       x="6"
-       y="6"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <rect
-       id="rect966"
-       class="ColorScheme-Text"
-       width="4"
-       height="4"
-       x="6"
-       y="11"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <rect
-       id="rect968"
-       class="ColorScheme-Text"
-       width="4"
-       height="4"
-       x="11"
-       y="1"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <rect
-       id="rect970"
-       class="ColorScheme-Text"
-       width="4"
-       height="4"
-       x="11"
-       y="6"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-    <rect
-       id="rect972"
-       class="ColorScheme-Text"
-       width="4"
-       height="4"
-       x="11"
-       y="11"
-       style="font-variation-settings:normal;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
-  </g>
+     width="4"
+     height="4"
+     x="1"
+     y="1"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="matrix(1.1428571,0,0,1.1428571,-1.1428571,-1.1428571)" />
+  <rect
+     id="rect958"
+     class="ColorScheme-Text"
+     width="4"
+     height="4"
+     x="1"
+     y="6"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="matrix(1.1428571,0,0,1.1428571,-1.1428571,-1.1428571)" />
+  <rect
+     id="rect960"
+     class="ColorScheme-Text"
+     width="4"
+     height="4"
+     x="1"
+     y="11"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="matrix(1.1428571,0,0,1.1428571,-1.1428571,-1.1428571)" />
+  <rect
+     id="rect962"
+     class="ColorScheme-Text"
+     width="4"
+     height="4"
+     x="6"
+     y="1"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="matrix(1.1428571,0,0,1.1428571,-1.1428571,-1.1428571)" />
+  <rect
+     id="rect964"
+     class="ColorScheme-Text"
+     width="4"
+     height="4"
+     x="6"
+     y="6"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="matrix(1.1428571,0,0,1.1428571,-1.1428571,-1.1428571)" />
+  <rect
+     id="rect966"
+     class="ColorScheme-Text"
+     width="4"
+     height="4"
+     x="6"
+     y="11"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="matrix(1.1428571,0,0,1.1428571,-1.1428571,-1.1428571)" />
+  <rect
+     id="rect968"
+     class="ColorScheme-Text"
+     width="4"
+     height="4"
+     x="11"
+     y="1"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="matrix(1.1428571,0,0,1.1428571,-1.1428571,-1.1428571)" />
+  <rect
+     id="rect970"
+     class="ColorScheme-Text"
+     width="4"
+     height="4"
+     x="11"
+     y="6"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="matrix(1.1428571,0,0,1.1428571,-1.1428571,-1.1428571)" />
+  <rect
+     id="rect972"
+     class="ColorScheme-Text"
+     width="4"
+     height="4"
+     x="11"
+     y="11"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;stroke-width:1.67857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     transform="matrix(1.1428571,0,0,1.1428571,-1.1428571,-1.1428571)" />
   <metadata
      id="metadata1">
     <rdf:RDF>
