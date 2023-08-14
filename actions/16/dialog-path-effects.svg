@@ -44,7 +44,7 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-<defs>
+  <defs>
    <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
@@ -94,7 +94,7 @@
   </linearGradient>
  </defs>
   <g
-     transform="translate(-165,-887.36218)"
+     transform="matrix(1.1428571,0,0,1.1333251,-189.78571,-1006.6697)"
      id="dialog-path-effects">
     <path
        id="path3123"
@@ -113,13 +113,13 @@
        style="opacity:1;fill:url(#oomox)" />
     <path
        d="m 173.70115,888.56074 c -1.26292,0.77427 -1.65782,2.42655 -0.88392,3.68938 0.77428,1.26294 2.42488,1.65886 3.6878,0.88458 0.18597,-0.11401 0.34755,-0.25165 0.49497,-0.39967 -1.0924,0.25137 -2.26834,-0.19102 -2.88655,-1.19941 -0.66096,-1.07807 -0.46131,-2.4342 0.39461,-3.29119 -0.2772,0.0633 -0.55144,0.15937 -0.80728,0.31622 z"
-       style="opacity:0.7;stroke-width:1.74614;fill:url(#oomox)"
+       style="opacity:0.7;fill:url(#oomox);stroke-width:1.74614"
        id="path2615"
-       class="ColorScheme-Text"/>
+       class="ColorScheme-Text" />
     <path
        id="path2612"
        class="ColorScheme-Text"
-       style="opacity:0.7;stroke-width:2.77394;fill:url(#oomox)"
+       style="opacity:0.7;fill:url(#oomox);stroke-width:2.77394"
        d="m 167.25276,891.9842 c -1.18955,2.03055 -0.50547,4.64115 1.52394,5.83101 2.03057,1.18956 4.63962,0.50814 5.82915,-1.52242 0.17518,-0.299 0.29848,-0.61284 0.39415,-0.93061 -1.34222,1.17023 -3.32104,1.43107 -4.94234,0.48129 -1.73335,-1.01544 -2.46925,-3.06491 -1.91186,-4.90657 -0.34096,0.29628 -0.65323,0.63625 -0.89419,1.0476 z" />
   </g>
 </svg>
