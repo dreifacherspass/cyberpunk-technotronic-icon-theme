@@ -62,41 +62,25 @@
   </linearGradient>
  </defs>
   <path
-     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.17411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-     d="m 11.331091,13.895106 c -0.185355,0.0093 -0.330842,0.16226 -0.330842,0.350051 v 0.548556 c 0,0.19385 0.154108,0.350051 0.347917,0.350051 h 0.550691 c 0.193809,0 0.350051,-0.156201 0.350051,-0.350051 v -0.548556 c 0,-0.193849 -0.156242,-0.350051 -0.350051,-0.350051 h -0.550691 c -0.0059,0 -0.0111,-3.01e-4 -0.01708,0 z"
-     id="path4"
-     class="ColorScheme-Text"/>
-  <path
-     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.159318;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-     d="M 8.5368596,7.7230959 V 13.424268 H 15.991938 V 7.7230959 Z m 0.7363282,1.1777345 1.7246092,0.863281 V 10.131299 L 9.2731878,11.05708 V 10.451611 L 10.566157,9.9711429 9.2731878,9.5062992 Z m 1.2929692,2.5878906 h 2.15625 v 0.431641 h -2.15625 z"
+     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.163311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="m 8.3040721,8.304 v 5.8 h 7.6999999 v -5.8 z m 0.7605188,1.19815 1.7812671,0.878246 v 0.373552 L 9.0645909,11.695779 V 11.079814 L 10.400038,10.591016 9.0645909,10.118115 Z m 1.3354471,2.632752 h 2.22709 v 0.439122 h -2.22709 z"
      id="path3"
-     class="ColorScheme-Text"/>
+     class="ColorScheme-Text" />
   <path
-     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.159318;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-     d="M -2.4986363e-4,7.7230959 V 13.424268 H 7.4841254 V 7.7230959 Z M 0.42748451,8.9008304 2.1520939,9.7641114 V 10.131299 L 0.42748451,11.05708 V 10.451611 L 1.7204533,9.9711429 0.42748451,9.5062992 Z M 1.7204533,11.488721 h 2.1562502 v 0.431641 H 1.7204533 Z"
+     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.162992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="m -0.004072,8.304 v 5.8 h 7.7 v -5.8 z m 0.44005739,1.19815 1.77429531,0.878246 v 0.373553 L 0.43598539,11.69578 V 11.079813 L 1.7662046,10.591017 0.43598539,10.118114 Z m 1.33021921,2.632751 h 2.2183718 v 0.439124 H 1.7662046 Z"
      id="path2"
-     class="ColorScheme-Text"/>
+     class="ColorScheme-Text" />
   <path
-     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.159318;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-     d="M 8.5368596,0.85590847 V 6.6684086 H 15.991938 V 0.85590847 Z m 0.7363282,0.51757813 1.7246092,0.861328 v 0.369141 L 9.2731878,3.5297367 V 2.9242679 L 10.566157,2.441846 9.2731878,1.9789554 Z m 1.2929692,2.5878909 h 2.15625 v 0.4316403 h -2.15625 z"
+     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.161741;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="m 8.3036203,1.896 v 5.8 H 16.00362 v -5.8 z M 9.0641392,2.412465 10.845408,3.2719407 V 3.6402878 L 9.0641392,4.564078 V 3.9599113 L 10.399586,3.4785269 9.0641392,3.0166317 Z m 1.3354468,2.5823255 h 2.22709 v 0.4307121 h -2.22709 z"
      id="path1"
-     class="ColorScheme-Text"/>
+     class="ColorScheme-Text" />
   <path
-     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.159318;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-     d="M -2.4986363e-4,0.85590847 V 6.6684086 H 7.4841254 V 0.85590847 Z M 0.42748451,1.3734866 2.1520939,2.2348146 v 0.369141 L 0.42748451,3.5297367 V 2.9242679 L 1.7204533,2.441846 0.42748451,1.9789554 Z M 1.7204533,3.9613775 H 3.8767035 V 4.3930178 H 1.7204533 Z"
+     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.161424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="m -0.004072,1.896 v 5.8 h 7.7 v -5.8 z M 0.43598539,2.412465 2.2102807,3.2719407 V 3.6402878 L 0.43598539,4.564078 V 3.9599113 L 1.7662046,3.4785269 0.43598539,3.0166317 Z M 1.7662046,4.9947905 H 3.9845764 V 5.4255026 H 1.7662046 Z"
      id="path13"
-     class="ColorScheme-Text"/>
-  <rect
-     style="display:inline;fill:url(#oomox);fill-opacity:1;stroke:none;stroke-width:1.24912"
-     id="rect28-1"
-     class="ColorScheme-Text"
-     width="1.2491202"
-     height="2.5026119"
-     x="13.894971"
-     y="-16.00025"
-     rx="0.20665386"
-     ry="0.30030966"
-     transform="rotate(90)" />
+     class="ColorScheme-Text" />
   <metadata
      id="metadata171">
     <rdf:RDF>
