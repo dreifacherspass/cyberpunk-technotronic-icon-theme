@@ -62,6 +62,11 @@
   </linearGradient>
  </defs>
   <path
+     id="path37"
+     style="opacity:0.2;fill:url(#oomox);stroke-width:1.39051"
+     class="ColorScheme-Text"
+     d="M 0,0 H 16 V 16 H 0 Z" />
+  <path
      id="path32"
      style="opacity:0.6;fill:url(#oomox);stroke-width:0.252386"
      class="ColorScheme-Text"
@@ -76,11 +81,6 @@
      class="ColorScheme-Text"
      style="fill:url(#oomox);stroke:none;stroke-width:0.435648"
      d="M 12.400391,6.5976562 C 11.729885,6.7775447 11.262709,7.383914 11.259766,8.078125 v 0.7695312 h -0.373047 c -0.190117,0.00118 -0.343643,0.1555823 -0.34375,0.3457032 v 3.0117186 c 0.0012,0.189359 0.154391,0.342574 0.34375,0.34375 h 3.826172 c 0.189359,-0.0012 0.342574,-0.154391 0.34375,-0.34375 V 9.1933594 C 15.056534,9.0032385 14.903008,8.8488406 14.712891,8.8476562 H 14.339844 V 8.078125 C 14.336901,7.383914 13.869725,6.7775447 13.199219,6.5976562 v 0.5058594 c 0.395815,0.1621407 0.654874,0.546874 0.65625,0.9746094 V 8.8476562 H 11.742188 V 8.078125 c 0.0017,-0.4282126 0.261621,-0.8130798 0.658203,-0.9746094 z" />
-  <path
-     id="path37"
-     style="opacity:0.2;fill:url(#oomox);stroke-width:1.39051"
-     class="ColorScheme-Text"
-     d="M 0,0 H 16 V 16 H 0 Z" />
   <path
      id="path38"
      style="opacity:0.6;fill:url(#oomox);stroke-width:0.252386"
