@@ -72,7 +72,7 @@
   <path
      id="path448"
      class="ColorScheme-Text"
-     style="display:inline;opacity:0.5;fill:url(#oomox);fill-rule:evenodd;stroke:url(#linearGradient3);stroke-width:0.0688743pt"
+     style="display:inline;opacity:0.5;fill:url(#oomox);fill-rule:evenodd;stroke:url(#oomox);stroke-opacity:0.5;stroke-width:0.0688743pt"
      d="m 13.035512,9.208559 c -0.253068,1.785595 -1.633433,3.468718 -2.48566,5.116864 -0.257068,0.496407 -0.9542537,1.257278 -1.4465846,1.620535 0.054818,-0.386572 0.4323149,-0.87255 0.6063606,-1.056017 0.342093,-0.359573 0.518139,-0.686012 0.754202,-1.065221 0.488129,-0.78603 0.563149,-1.56715 0.960254,-2.255617 0.410109,-0.712396 0.589158,-1.253598 0.56715,-1.9954482" />
   <path
      id="path697"
