@@ -97,7 +97,7 @@
   <ellipse
      id="path_disc_shadow"
      class="ColorScheme-Text"
-     style="opacity:0.2;fill:url(#oomox);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient7);stroke-width:0.133684;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:0.2;fill:url(#oomox);fill-opacity:1;fill-rule:nonzero;stroke:url(#oomox);stroke-width:0.133684;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      cx="8"
      cy="8"
      rx="7.936399"
