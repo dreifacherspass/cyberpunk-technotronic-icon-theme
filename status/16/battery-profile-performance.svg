@@ -4,7 +4,6 @@
    height="16"
    version="1.1"
    id="svg24"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -60,8 +59,8 @@
       </linearGradient>
    </defs>
   <path
-     d="M 9.600002,0 3.9999997,9.6000024 H 7.2000002 L 6.3999999,16 12,6.4000021 H 8.8000019 Z"
-     style="overflow:visible;opacity:1;fill:url(#oomox);stroke-width:1.6"
+     d="M 14.723433,1.5e-7 2.5220845,7.3338682 6.1161952,9.3044199 1.2765673,16 13.47791,8.6661347 9.8838037,6.6955852 Z"
+     style="overflow:visible;opacity:1;fill:url(#oomox);stroke-width:2.04943"
      id="path27"
      class="ColorScheme-Text" />
   <metadata
