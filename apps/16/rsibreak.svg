@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    width="16"
    height="16"
-   id="svg2231"
-   version="1.0"
+   viewBox="0 0 38.4 38.4"
+   version="1.1"
+   id="svg1"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -61,14 +61,21 @@
          <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
       </linearGradient>
    </defs>
+  <path
+     d="m 0.01675006,17.950467 14.81073494,0.10675 c 0.201817,-0.75409 0.580674,-1.470163 1.175829,-2.056923 1.774209,-1.749187 4.639554,-1.728846 6.388745,0.04536 1.749193,1.774208 1.728833,4.639574 -0.04538,6.388762 -1.77421,1.749187 -4.639562,1.72884 -6.388746,-0.04536 -0.586759,-0.595152 -0.955415,-1.316538 -1.146491,-2.073398 L 6.7758662e-4,20.212063 0.01673584,17.950452 Z"
+     id="path2"
+     class="ColorScheme-Text"
+     style="stroke-width:0.02;fill:url(#oomox)" />
+  <path
+     id="path1"
+     class="ColorScheme-Text"
+     style="stroke-width:0.02;fill:url(#oomox)"
+     d="M 18.070312 0 L 18.070312 12.534375 C 18.431712 12.466615 18.816 12.421875 19.2 12.421875 C 22.927056 12.421875 25.978125 15.472944 25.978125 19.2 C 25.978125 22.927056 22.927056 25.978125 19.2 25.978125 C 16.525978 25.978125 14.206706 24.402516 13.10625 22.139062 L 0.20625 22.017187 C 1.5722771 31.27739 9.5637353 38.4 19.2 38.4 C 29.793869 38.4 38.4 29.793869 38.4 19.2 C 38.4 8.6061306 29.793869 0 19.2 0 L 18.070312 0 z M 0 19.2 C 0 19.355318 0.0056961222 19.50962 0.009375 19.664062 L 0.0140625 19.2 L 0 19.2 z " />
   <metadata
-     id="metadata2236">
+     id="metadata2">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:creator>
           <cc:Agent>
             <dc:title>dreifacherspass</dc:title>
@@ -94,26 +101,4 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <circle
-     style="fill:none;stroke:url(#oomox);stroke-width:1.8;stroke-linecap:square;stroke-dasharray:none;opacity:1"
-     id="path1"
-     class="ColorScheme-Text"
-     cx="8"
-     cy="8"
-     r="7.0903215" />
-  <path
-     id="path4532"
-     class="ColorScheme-Text"
-     style="display:inline;opacity:1;fill:url(#oomox);fill-opacity:1;stroke-width:0.173199"
-     d="M 7.7593218,4.6354544 8.2597957,4.6356278 8.2405205,7.8566695 7.7402043,7.8563231 Z" />
-  <path
-     d="m 7.9999887,8.5555867 c -0.3817647,0 -0.6922889,-0.3219745 -0.6922889,-0.717815 0,-0.3958008 0.3105242,-0.7178271 0.6922889,-0.7178271 0.381749,0 0.6923115,0.3220263 0.6923115,0.7178271 0,0.3958405 -0.3105625,0.717815 -0.6923115,0.717815 z"
-     style="display:inline;opacity:1;fill:url(#oomox);fill-opacity:1;fill-rule:evenodd;stroke-width:0.173199"
-     id="path4536"
-     class="ColorScheme-Text" />
-  <path
-     id="path4546"
-     class="ColorScheme-Text"
-     style="display:inline;opacity:1;fill:url(#oomox);fill-opacity:1;stroke-width:0.173199"
-     d="M 7.7767412,4.8321935 C 7.5334616,4.733747 7.3279605,4.4697683 7.2556913,4.1628796 7.2050201,3.9476981 7.2115791,3.8242883 7.2900091,3.5172159 7.420844,3.0049733 7.9337346,1.7775323 8.0092773,1.7958776 c 0.035228,0.00855 0.070881,0.07937 0.2934293,0.5828252 0.155069,0.3508017 0.3769203,0.9649361 0.4336275,1.2003852 0.1198731,0.4976958 -0.031912,0.9626153 -0.3860548,1.1824783 -0.1808965,0.112306 -0.4029642,0.1396524 -0.5735381,0.070627 z" />
 </svg>
