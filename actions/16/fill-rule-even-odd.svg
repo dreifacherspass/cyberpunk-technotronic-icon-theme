@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
  <defs>
    <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color: #1AD6AB; }
@@ -57,5 +57,5 @@
    <stop offset="100%"  stop-color= "#0f83ae" stop-opacity="1"/>
   </linearGradient>
  </defs>
- <path fill="url(#oomox)" class="ColorScheme-Text" d="M 8.2109375 2 L 6.8242188 3.3867188 L 10.458984 7.0214844 L 1.9980469 7 L 1.9980469 9 L 10.458984 9.0214844 L 6.8242188 12.654297 L 8.2109375 14.041016 L 14.210938 8 L 8.2109375 2 z"/>
+ <path fill="url(#oomox)" class="ColorScheme-Text" d="M 5.6328125 2 C -0.88948752 2 1.447644 22 12.027344 22 C 22.424045 22 24.914019 2 18.449219 2 C 16.424907 2 14.044044 3.5327979 12.027344 5.6464844 C 16.516386 10.369049 19.198145 18.003906 12.064453 18.003906 C 4.8395893 18.003906 7.5214602 10.369062 12.027344 5.6464844 C 10.018257 3.5328833 7.6492799 2 5.6328125 2 z"/>
 </svg>
