@@ -61,18 +61,18 @@
       </linearGradient>
    </defs>
   <ellipse
-     cx="8"
-     cy="8"
-     style="fill:none;stroke:url(#oomox);stroke-width:1.49989;stroke-dasharray:none"
+     cx="8.0171356"
+     cy="8.0171366"
+     style="fill:none;stroke:url(#oomox);stroke-width:1.00012;stroke-dasharray:none"
      id="path_circle"
      class="ColorScheme-Text"
-     rx="7.2500525"
-     ry="7.2500515" />
+     rx="7.4999371"
+     ry="7.4999385" />
   <path
      d="M 4.5214175,5.5648227 2.7824089,7.3038313 4.5214175,9.0428397 6.2604262,7.3038313 Z M 6.2604262,7.3038313 7.9994348,9.0428397 9.738443,7.3038313 7.9994348,5.5648227 Z m 3.4780168,0 1.739009,1.7390084 L 13.21646,7.3038313 11.477452,5.5648227 Z M 7.9994348,9.0428397 6.2604262,10.781849 7.9994348,12.520857 9.738443,10.781849 Z"
      style="fill:url(#oomox);stroke-width:0.347802"
      id="path_symbol"
-     class="ColorScheme-Text"/>
+     class="ColorScheme-Text" />
   <metadata
      id="metadata7">
     <rdf:RDF>
