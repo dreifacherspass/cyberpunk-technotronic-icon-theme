@@ -95,41 +95,6 @@
     </rdf:RDF>
   </metadata>
   <path
-     class="ColorScheme-Text"
-     d="m 1,0 v 16 h 9 0.75 L 15,11.75 V 11 0 Z m 1,1 h 12 v 10 h -4 v 4 H 2 Z"
-     id="path748"
-     style="fill:url(#oomox);fill-opacity:1;stroke-width:1" />
-  <metadata
-     id="metadata245">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>dreifacherspass</dc:title>
-          </cc:Agent>
-        </dc:creator>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <path
      style="fill:url(#oomox);fill-opacity:1;fill-rule:nonzero;stroke:url(#oomox);stroke-width:0.0891772;stroke-dasharray:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      d="m 5.3276596,9.1803784 c -0.2922447,0 -0.5651111,0.037359 -0.8182101,0.1112839 -0.2531068,0.073952 -0.4604306,0.1685808 -0.6222234,0.284505 l 0.03929,0.012264 c 0.2713786,-0.099942 0.4176898,-0.1536877 0.4385711,-0.1616728 0.1513407,-0.04797 0.2972105,-0.07244 0.4381145,-0.07244 0.17744,0 0.3837261,0.038132 0.6185687,0.1140827 0.2348423,0.075957 0.5219361,0.2055961 0.8611536,0.3894827 0.3757454,0.1998761 0.6623976,0.3360781 0.8606965,0.4080371 0.2609335,0.09194 0.5297427,0.137874 0.8063322,0.137874 0.2818085,0 0.6186828,-0.04983 1.0100849,-0.149773 l -0.4230389,0.02414 C 8.1925632,10.278162 7.8536038,10.201902 7.5196035,10.05 7.4726393,10.03002 7.2480501,9.9163204 6.8462134,9.7084485 6.4965504,9.5245592 6.2018214,9.3903071 5.9617608,9.3063596 5.721693,9.2224132 5.5103105,9.1803795 5.3276596,9.1803784 Z"
      id="path5998"
