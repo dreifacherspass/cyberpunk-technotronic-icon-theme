@@ -58,12 +58,12 @@
       </linearGradient>
    </defs>
   <path
-     style="opacity:0.5;stroke-width:1.33333;fill:url(#oomox)"
+     style="opacity:1;stroke-width:1.33333;fill:url(#oomox)"
      d="m 2.5866667,5.4133333 -0.392,0.392 -0.552,0.552 L 5.1733333,9.885333 0.89204439,14.165298 0,16 1.8066667,15.138668 1.8366917,15.108634 6.116,10.828 l 3.528,3.529333 0.552,-0.552 0.390667,-0.390666 z"
      id="path3"
      class="ColorScheme-Text"/>
   <path
-     style="opacity:0.5;stroke-width:1.33333;fill:url(#oomox)"
+     style="opacity:1;stroke-width:1.33333;fill:url(#oomox)"
      d="M 12,0 7.4133333,4.5866667 11.413333,8.586667 16,4 Z"
      id="path1"
      class="ColorScheme-Text"/>
