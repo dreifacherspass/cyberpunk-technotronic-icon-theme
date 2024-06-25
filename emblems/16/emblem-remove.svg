@@ -4,6 +4,7 @@
    height="16"
    version="1.1"
    id="svg6"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -65,14 +66,14 @@
      id="circle6"
      style="opacity:0.3;fill:url(#oomox);stroke-width:1.14286" />
   <rect
-     width="2.2857144"
-     height="11.428571"
-     x="-9.1428566"
-     y="2.2857141"
+     width="2.3000002"
+     height="11.5"
+     x="-9.1499996"
+     y="2.25"
      transform="rotate(-90)"
      id="rect6"
      class="ColorScheme-Text"
-     style="opacity:1;fill:url(#oomox);stroke-width:1.14286" />
+     style="opacity:1;fill:url(#oomox);stroke-width:1.15" />
   <metadata
      id="metadata6">
     <rdf:RDF>
