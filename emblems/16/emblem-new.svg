@@ -4,6 +4,7 @@
    height="16"
    version="1.1"
    id="svg7"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -68,9 +69,8 @@
   <path
      id="rect6"
      class="ColorScheme-Text"
-     style="fill:url(#oomox);stroke-width:0.571429"
-     d="M -2.2851562 6.8574219 L -6.8574219 6.8574219 L -6.8574219 2.2851562 L -9.1425781 2.2851562 L -9.1425781 6.8574219 L -13.714844 6.8574219 L -13.714844 9.1425781 L -9.1425781 9.1425781 L -9.1425781 13.714844 L -6.8574219 13.714844 L -6.8574219 9.1425781 L -2.2851562 9.1425781 L -2.2851562 6.8574219 z "
-     transform="rotate(-90)" />
+     style="fill:url(#oomox);stroke-width:0.574944"
+     d="m 6.8503931,2.2500001 v 4.600393 h -4.600393 v 2.2992138 h 4.600393 V 13.75 H 9.1496069 V 9.1496069 H 13.75 V 6.8503931 H 9.1496069 v -4.600393 z" />
   <metadata
      id="metadata7">
     <rdf:RDF>
