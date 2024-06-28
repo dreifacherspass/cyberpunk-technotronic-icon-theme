@@ -5,6 +5,8 @@ For all of us that love cyberpunk, neon, outrun, synthwave and retrofuture aesth
 
 **Feel free to ask for new icons**
 
+Package releases on [pling](https://www.pling.com/p/1999292)
+
 Donation info [here](https://dreifacherspass.github.io/) 
 
 The Ultimate-Punk-Suru++ icon theme was awesome. But it hasn't received updates for years and it also uses the same generic icons for a multitude of applications.
