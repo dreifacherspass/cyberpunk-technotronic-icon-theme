@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   height="16"
+   width="16"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <defs>
+      <style id="current-color-scheme" type="text/css">
+         .ColorScheme-Text { color: #0abdc6; } .ColorScheme-Highlight { color:#5294e2; }
+      </style>
+      <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0%" style="stop-color:#dd9b44; stop-opacity:1"/>
+         <stop offset="100%" style="stop-color:#ad6c16; stop-opacity:1"/>
+      </linearGradient>
+      <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0%" style="stop-color:#09D4DF; stop-opacity:1"/>
+         <stop offset="100%" style="stop-color:#9269F4; stop-opacity:1"/>
+      </linearGradient>
+      <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0" style="stop-color:#0abdc6; stop-opacity:1"/>
+         <stop offset="1" style="stop-color:#ea00d9; stop-opacity:1"/>
+      </linearGradient>
+      <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0%" style="stop-color:#1AD6AB; stop-opacity:1"/>
+         <stop offset="100%" style="stop-color:#329DB6; stop-opacity:1"/>
+      </linearGradient>
+      <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0%" style="stop-color:#0abdc6; stop-opacity:1"/>
+         <stop offset="100%" style="stop-color:#b800ff; stop-opacity:1"/>
+      </linearGradient>
+      <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0%" style="stop-color:#00F260; stop-opacity:1"/>
+         <stop offset="100%" style="stop-color:#0575E6; stop-opacity:1"/>
+      </linearGradient>
+      <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0%" style="stop-color: #FF8501; stop-opacity:1"/>
+         <stop offset="100%" style="stop-color: #FFCB01; stop-opacity:1"/>
+      </linearGradient>
+      <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0%" style="stop-color: #b2ced6; stop-opacity:1"/>
+         <stop offset="100%" style="stop-color: #6da5b7; stop-opacity:1"/>
+      </linearGradient>
+      <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0%" style="stop-color: #df5940; stop-opacity:1"/>
+         <stop offset="25%" style="stop-color: #d8d15f; stop-opacity:1"/>
+         <stop offset="50%" style="stop-color: #e9882a; stop-opacity:1"/>
+         <stop offset="100%" style="stop-color: #279362; stop-opacity:1"/>
+      </linearGradient>
+      <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+         <stop offset="0%" style="stop-color: #f618c7; stop-opacity:1"/>
+         <stop offset="20%" style="stop-color: #94ffab; stop-opacity:1"/>
+         <stop offset="50%" style="stop-color: #fbfd54; stop-opacity:1"/>
+         <stop offset="100%" style="stop-color: #0f83ae; stop-opacity:1"/>
+      </linearGradient>
+   </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>dreifacherspass</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <ellipse
+     id="path_face"
+     class="ColorScheme-Text"
+     style="display:inline;fill:url(#oomox);fill-opacity:0.5;stroke:fill;stroke-width:0.0682937;stroke-opacity:1;opacity:0.5"
+     cx="7.9898291"
+     cy="9.0515633"
+     rx="6.1154175"
+     ry="4.9093122" />
+  <path
+     id="path_nose"
+     class="ColorScheme-Text"
+     style="display:inline;fill-opacity:1;fill:url(#oomox);stroke-width:0.0674124;stroke-opacity:1"
+     d="M 8.0351562 9.4277344 A 2.1317778 1.7906697 0 0 0 5.9042969 11.21875 A 2.1317778 1.7906697 0 0 0 8.0351562 13.009766 A 2.1317778 1.7906697 0 0 0 10.167969 11.21875 A 2.1317778 1.7906697 0 0 0 8.0351562 9.4277344 z M 7.3613281 10.931641 A 0.35529628 0.31976244 0 0 1 7.7167969 11.25 A 0.35529628 0.31976244 0 0 1 7.3613281 11.570312 A 0.35529628 0.31976244 0 0 1 7.0058594 11.25 A 0.35529628 0.31976244 0 0 1 7.3613281 10.931641 z M 8.6035156 10.931641 A 0.35529628 0.31976244 0 0 1 8.9589844 11.25 A 0.35529628 0.31976244 0 0 1 8.6035156 11.570312 A 0.35529628 0.31976244 0 0 1 8.2480469 11.25 A 0.35529628 0.31976244 0 0 1 8.6035156 10.931641 z " />
+  <path
+     id="path_left_eye"
+     style="display:inline;fill-opacity:1;fill:url(#oomox);stroke-width:0.0634918;stroke-opacity:1"
+     class="ColorScheme-Text"
+     d="M -6.5800781 7.578125 A 0.94564235 1.0283183 67.212073 0 1 -5.8066406 7.9316406 L -7.3945312 7.9453125 A 0.94564235 1.0283183 67.212073 0 1 -6.5800781 7.578125 z M -6.5976562 8.328125 A 0.46498284 0.52017492 0 0 1 -6.1328125 8.8496094 A 0.46498284 0.52017492 0 0 1 -6.5976562 9.3691406 A 0.46498284 0.52017492 0 0 1 -7.0625 8.8496094 A 0.46498284 0.52017492 0 0 1 -6.5976562 8.328125 z "
+     transform="scale(-1,1)" />
+  <path
+     id="path_right_eye"
+     style="display:inline;fill-opacity:1;fill:url(#oomox);stroke-width:0.0634918;stroke-opacity:1"
+     class="ColorScheme-Text"
+     d="M 9.3984375 7.5800781 A 0.97131961 1.0335837 52.717659 0 0 8.5878906 7.9609375 L 10.167969 7.9472656 A 0.97131961 1.0335837 52.717659 0 0 9.3984375 7.5800781 z M 9.3808594 8.328125 A 0.46498284 0.52017492 0 0 0 8.9160156 8.8496094 A 0.46498284 0.52017492 0 0 0 9.3808594 9.3691406 A 0.46498284 0.52017492 0 0 0 9.8457031 8.8496094 A 0.46498284 0.52017492 0 0 0 9.3808594 8.328125 z " />
+  <path
+     id="path_headphones"
+     class="ColorScheme-Text"
+     d="m 7.9734168,2.0245344 c -2.7678144,0 -4.7292838,0.7644887 -6.0124874,1.9248239 C 0.75792484,5.0371725 0.1563333,6.4632566 0.03955503,7.9128398 -0.00104927,8.2712865 0.02158848,8.6398447 0.09474711,8.9821862 0.17057662,9.3370271 0.36841706,9.6875599 0.64666794,9.9204517 1.0528673,10.260434 2.1368541,10.472373 2.1368541,10.472373 c 0,0 -0.5118723,-1.392627 -0.055192,-2.7044125 0.2199271,-0.6317274 1.0486496,-1.7109547 1.0486496,-1.7109547 0,0 -1.0947836,-0.2259706 -1.6005705,-0.055192 C 1.1316377,6.1362332 0.75536413,6.4034364 0.49144022,6.7400079 0.76814229,5.774325 1.2938261,4.8654248 2.1161571,4.1218335 3.3493348,3.0067349 5.2484282,2.2591008 7.9734168,2.2591008 c 2.7249872,0 4.6413082,0.7473228 5.8883062,1.8627327 0.83454,0.746476 1.36792,1.6590259 1.648863,2.6285231 -0.264197,-0.3416094 -0.646405,-0.6127251 -1.048649,-0.7485429 -0.505787,-0.1707785 -1.600571,0.055192 -1.600571,0.055192 0,0 0.828722,1.0792273 1.04865,1.7109547 0.45668,1.3117855 -0.05519,2.7044116 -0.05519,2.7044116 0,0 1.083987,-0.211938 1.490186,-0.5519204 0.278251,-0.2328918 0.476091,-0.5834246 0.551921,-0.9382655 0.05338,-0.2497902 0.08108,-0.512299 0.07589,-0.7761386 h 0.0069 C 15.923479,6.6577397 15.310374,5.109381 14.013501,3.9493583 12.716627,2.7893355 10.741231,2.0245344 7.9734168,2.0245344 Z"
+     style="display:inline;fill:url(#oomox);fill-opacity:1;stroke:fill:url(#oomox);stroke-width:0.0391126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <ellipse
+     id="path_left_cheek"
+     class="ColorScheme-Text"
+     style="display:inline;fill:url(#oomox);fill-opacity:0.5;stroke:none"
+     cx="139.83037"
+     cy="462.63513"
+     rx="14.495689"
+     ry="12.727922"
+     transform="matrix(0.09127325,0,0,0.10084367,-8.2055841,-36.180909)" />
+  <ellipse
+     id="path_right_cheek"
+     class="ColorScheme-Text"
+     style="display:inline;fill:url(#oomox);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0959392;opacity:0.5"
+     cx="11.569069"
+     cy="10.47253"
+     rx="1.3230687"
+     ry="1.2835304" />
+</svg>
