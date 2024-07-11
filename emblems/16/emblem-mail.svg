@@ -60,6 +60,7 @@
    </defs>
   <path
      id="path_disc"
+     class="ColorScheme-Text"
      style="opacity:0.3;fill:url(#oomox)"
      transform="matrix(0.57142857,0,0,0.57142857,-1.1428571,-1.1428571)"
      d="M 30,16 A 14,14 0 0 1 16,30 14,14 0 0 1 2,16 14,14 0 0 1 16,2 14,14 0 0 1 30,16 Z" />
