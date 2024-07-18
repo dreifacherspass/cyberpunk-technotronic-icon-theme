@@ -65,7 +65,7 @@
      r="8"
      id="circle35-9"
      class="ColorScheme-Text"
-     style="display:inline;opacity:0.3;fill:url(#oomox);stroke-width:0.8;fill-opacity:1" />
+     style="display:inline;opacity:0.5;fill:#000000;stroke-width:0.8;fill-opacity:0.5" />
   <path
      fill-rule="evenodd"
      d="M 9,3 V 5 H 5.8398463 c -1.371845,8e-5 -2.6394518,0.7735687 -3.3253743,1.953268 -0.6859627,1.179767 -0.6859627,2.969738 0,4.149506 C 3.1674504,12.222129 4.347423,12.93642 5.6485933,13 4.6670893,12.902435 3.9999108,12.382474 4.0000001,11.403 4.0000003,10.35005 4.7794399,10 5.8398463,10 H 9 v 1.579409 L 14,7.5 Z"
