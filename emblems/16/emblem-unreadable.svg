@@ -61,7 +61,7 @@
   </defs>
   <path
      id="path_disc"
-     style="opacity:0.3;fill:url(#oomox);stroke-width:0.571429"
+     style="opacity:0.5;fill:#000000;stroke-width:0.571429"
      class="ColorScheme-Text"
      d="M 16,8 A 8,8 0 0 1 8,16 8,8 0 0 1 0,8 8,8 0 0 1 8,0 8,8 0 0 1 16,8 Z" />
   <metadata
