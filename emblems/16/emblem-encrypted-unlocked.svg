@@ -91,8 +91,7 @@
   </metadata>
   <path
      id="path_disc"
-     class="ColorScheme-Text"
-     style="fill:url(#oomox);opacity:0.3"
+     style="fill:#000000;opacity:0.5"
      d="M 44,24 A 20,20 0 0 1 24,44 20,20 0 0 1 4,24 20,20 0 0 1 24,4 20,20 0 0 1 44,24 Z"
      transform="matrix(0.4,0,0,0.4,-1.6,-1.6)" />
   <path
