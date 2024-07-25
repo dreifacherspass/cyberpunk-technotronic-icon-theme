@@ -60,8 +60,7 @@
    </defs>
   <path
      id="path_disc"
-     class="ColorScheme-Text"
-     style="opacity:0.3;fill:url(#oomox);stroke-width:3.03083;stroke-linecap:round;stroke-linejoin:bevel"
+     style="opacity:0.5;fill:#000000;stroke-width:3.03083;stroke-linecap:round;stroke-linejoin:bevel"
      d="M 16,8 A 8,8 0 0 1 8,16 8,8 0 0 1 0,8 8,8 0 0 1 8,0 8,8 0 0 1 16,8 Z" />
   <path
      d="M 12.924353,2.6759788 V 10.125182 A 1.9188279,1.9188279 0 1 1 12.073015,8.5340158 V 5.3492943 L 6.1136529,6.8391349 V 11.827856 A 1.9188279,1.9188279 0 1 1 5.2623154,10.236691 V 4.3786537 A 0.42550164,0.42550164 0 0 1 5.5848925,3.965871 L 12.395592,2.263196 a 0.42013503,0.42013503 0 0 1 0.364978,0.077319 0.42648015,0.42648015 0 0 1 0.163783,0.3354638 z"
