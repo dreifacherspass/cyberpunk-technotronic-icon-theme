@@ -4,6 +4,7 @@
    height="16"
    version="1.1"
    id="svg6"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -60,9 +61,13 @@
   </defs>
   <path
      id="path_disc"
-     class="ColorScheme-Text"
      style="opacity:0.5;fill:#000000;stroke-width:1.14286"
      d="M 16,8 A 8,8 0 0 1 8,16 8,8 0 0 1 0,8 8,8 0 0 1 8,0 8,8 0 0 1 16,8 Z" />
+  <path
+    d="M 13.7505,6.357 V 9.643 H 2.2495001 V 6.357 Z"
+    style="fill:url(#oomox);stroke-width:0.8215"
+    id="path_minus"
+    class="ColorScheme-Text"/>
   <metadata
      id="metadata6">
     <rdf:RDF>
@@ -93,10 +98,4 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <path
-     id="path_minus"
-     class="ColorScheme-Text"
-     style="fill:url(#oomox);opacity:1;stroke-width:0.8215"
-     transform="rotate(90)"
-     d="m 6.3569999,-13.7505 h 3.286 v 11.5009997 h -3.286 z" />
 </svg>
