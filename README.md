@@ -1,4 +1,17 @@
 # cyberpunk-technotronic-icon-theme
+
+${{\color{greenyellow}\Huge{\textsf{NOTICE:}}}}\$ <code>I will continue to develop the theme but I won't do it on github, just locally on my machine. You will find weekly or semi-weekly updates on pling and your DE app store.</code>
+
+ <code>Why am I doing this?</code>
+
+ <code>I created this account on github in the hope of attracting collaborators. Nevertheless, more than a year has passed and no one has expressed interest. Since there are no collaborators, it's of little use to me to continue to maintain the theme on github. From now on, I'm creating new icons, put them in the icon theme and upload it on pling.</code>
+
+ <code>You are welcome to open issues, pull requests and contact me both on github and pling.</code>
+
+${{\color{greenyellow}\{\textsf{I am creating new themes (same icons) in different gradients (cyberpunk style). You'll find them on pling.}}}}\$
+
+<br/>
+
 a blue-purple (oomox) gradient full-icon theme.
 
 For all of us that love cyberpunk, neon, outrun, synthwave and retrofuture aesthetics.
